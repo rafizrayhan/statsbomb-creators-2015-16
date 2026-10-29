@@ -1,0 +1,2177 @@
+player_id,player,team,minutes,apps
+2936,Christophe Kerbrat,Guingamp,2696.883333333333,29
+2943,Lucas Deaux,Nantes,1234.7833333333333,16
+2944,Benjamin Corgnet,Saint-Étienne,589.5333333333333,16
+2946,Frédéric Guilbert,Bordeaux,2526.35,29
+2947,Anthony Lopes,Lyon,3471.8,37
+2948,Nabil Fekir,Lyon,493.06666666666666,9
+2950,Jonas Martin,Montpellier,3241.5666666666666,36
+2953,Abdou Kader Mangane,Gazélec Ajaccio,2568.2,30
+2955,Ronny Rodelin,Lille,2936.1833333333334,35
+2956,Bertrand Isidore Traoré,Chelsea,401.71666666666664,10
+2959,Julien Féret,Caen,3381.8,38
+2961,Yann Bodiger,Toulouse,1136.8333333333333,22
+2963,Rémy Vercoutre,Caen,3547.15,38
+2966,Stéphane Sessègnon,West Bromwich Albion,1818.05,25
+2967,Mamadou Samassa,Guingamp,94.91666666666667,1
+2969,Karim Azamoum,Troyes,752.4,13
+2970,Christian Kouakou Yao,Stade Malherbe Caen,147.33333333333331,6
+2971,Romain Genevois,OGC Nice,1046.9166666666665,14
+2975,Mathieu Deplagne,Montpellier,1863.7833333333333,25
+2976,Samuel Grandsir,Troyes,16.39999999999999,1
+2979,Jonathan Delaplace,Caen,1601.0666666666666,22
+2980,Kévin Bérigaud,Montpellier,1072.9,19
+2981,Alban Lafont,Toulouse,2229.15,24
+2983,Jérémy Morel,Lyon,2611.2,31
+2985,Ludovic Baal,Rennes,1573.9833333333333,22
+2988,Memphis Depay,Manchester United,1576.3666666666666,29
+2989,Alexander Djiku,Bastia,1572.5833333333333,20
+2990,Benjamin André,Rennes,2723.0666666666666,32
+2991,Hervé Bazile,Caen,1129.6833333333334,25
+2992,Vincent Bessat,Caen,2827.5166666666664,35
+2993,Stéphane Darbion,Troyes,1624.45,25
+2994,Abdoulaye Diallo,Rennes,658.1166666666667,7
+2995,Ángel Fabián Di María Hernández,Paris Saint-Germain,2080.55,28
+2999,Presnel Kimpembe,Paris Saint-Germain,346.3,5
+3002,Benjamin Nivet,Troyes,2428.8333333333335,33
+3004,Oswaldo Augusto Vizcarrondo Araújo,Nantes,2730.5666666666666,30
+3008,Benjamin Lecomte,Lorient,3367.883333333333,37
+3009,Kylian Mbappé Lottin,AS Monaco,324.1333333333333,11
+3010,Corentin Jean,Troyes,2618.1,33
+3011,Daniel Congré,Montpellier,3242.7833333333333,35
+3018,Giovanni-Guy Yann Sio,Rennes,2688.4166666666665,34
+3020,Rodrigue Casimir Ninga,Montpellier,2053.866666666667,26
+3022,Fallou Diagne,Rennes,1933.5166666666667,22
+3023,Yuri Berchiche Izeta,Real Sociedad,1904.1333333333332,21
+3024,Jacques François Moubandje,Toulouse,1955.3666666666666,23
+3025,Christopher Nkunku,Paris Saint-Germain,337.2833333333333,5
+3026,Adrien Rabiot,Paris Saint-Germain,1649.6,24
+3030,Wergiton do Rosário Calmon,Toulouse,2208.5,29
+3032,Zinédine Machach,Toulouse,892.5666666666666,16
+3034,Kamil Glik,Torino,3118.1,33
+3035,Steeve Yago,Toulouse,1516.85,19
+3036,Alexis Blin,Toulouse,1490.5333333333333,24
+3037,Mousa Sidi Yaya Dembélé,Tottenham Hotspur,2348.9333333333334,29
+3038,Andy Delort,Caen,3246.1666666666665,36
+3041,Ciaran Clark,Aston Villa,1523.4833333333333,18
+3043,Christian Dannemann Eriksen,Tottenham Hotspur,3043.2,35
+3044,Chancel Mbemba Mangulu,Newcastle United,3067.233333333333,33
+3045,Ismaël Traoré,Angers,3063.15,34
+3047,Benoît Assou-Ekotto,Saint-Étienne,1775.6333333333334,20
+3049,Matt Ritchie,AFC Bournemouth,3106.7833333333333,37
+3052,Pablo Javier Zabaleta Girod,Manchester City,1108.8333333333333,13
+3054,Fernando Luiz Roza,Manchester City,2848.05,33
+3057,Jonjo Shelvey,Swansea City,2366.4666666666667,31
+3058,Javier Hernández Balcázar,Manchester United,27.08333333333333,1
+3062,Aaron Cresswell,West Ham United,3483.3,37
+3063,Danilo Luiz da Silva,Real Madrid,2108.4,24
+3064,David Josué Jiménez Silva,Manchester City,1838.5833333333333,24
+3065,Paul Dummett,Newcastle United,1974.3333333333333,23
+3071,Pierrick Capelle,Angers,1310.1999999999998,28
+3075,Javier Manquillo Gaitán,Marseille,2767.7833333333333,31
+3076,Ayoze Pérez Gutiérrez,Newcastle United,2150.75,34
+3077,Jan Vertonghen,Tottenham Hotspur,2706.0,29
+3078,Abdoul Razzagui Camara,Angers,1503.6166666666666,17
+3081,Jamaal Lascelles,Newcastle United,1224.0666666666666,18
+3083,Heung-Min Son,Tottenham Hotspur,1170.1333333333334,28
+3084,Christian Atsu Twasam,Málaga,423.3833333333333,12
+3085,Glenn Murray,AFC Bournemouth,862.3,21
+3086,Ben Davies,Tottenham Hotspur,1362.8166666666666,17
+3087,Gnégnéri Yaya Touré,Manchester City,2407.2166666666667,32
+3089,Kevin De Bruyne,Manchester City,2085.6,25
+3090,Nicolás Hernán Otamendi,Manchester City,2784.9333333333334,30
+3091,Moussa Sissoko,Newcastle United,3358.7,37
+3092,Dwight Gayle,Crystal Palace,815.05,16
+3094,Bamidele Alli,Tottenham Hotspur,2537.5833333333335,33
+3096,Rob Elliot,Newcastle United,1983.3333333333333,21
+3098,Victor Wanyama,Southampton,2598.3333333333335,30
+3099,Hugo Lloris,Tottenham Hotspur,3480.883333333333,37
+3101,Vincent Kompany,Manchester City,1231.1166666666666,14
+3102,Yann Jouffre,Lorient,1823.8,27
+3103,Milan Biševac,Lyon,1428.9333333333334,17
+3109,Malcom Filipe Silva de Oliveira,Bordeaux,507.0333333333333,11
+3111,Gilles Sunu,Angers,2450.133333333333,32
+3112,Anton Ciprian Tătărușanu,Fiorentina,3457.8,37
+3114,Emiliano Sala,Nantes,2042.9333333333334,31
+3117,Lucas Tousart,Lyon,60.35,1
+3118,Jordan Ferri,Lyon,2527.3333333333335,34
+3121,Moustapha Elhadji Diallo,Guingamp,1992.5833333333333,30
+3122,Yannis Salibur,Guingamp,2391.3166666666666,30
+3124,Jérémy Sorbon,Guingamp,3155.633333333333,34
+3125,Danilo Fernando Avelar,Torino,368.1166666666667,6
+3130,Gaël Kakuta,Sevilla,49.96666666666666,2
+3136,Rémi Walter,OGC Nice,582.6166666666667,12
+3138,Abdoulaye Touré,Nantes,218.46666666666667,4
+3140,François Bellugou,Lorient,2376.633333333333,33
+3141,André-Frank Zambo Anguissa,Olympique de Marseille,324.5333333333333,9
+3144,Léo Dubois,Nantes,2067.3,24
+3145,Keita Baldé Diao,Lazio,1884.9333333333334,31
+3150,Jaroslav Plašil,Bordeaux,2189.266666666667,26
+3151,Jules Iloki,Nantes,1065.5166666666667,21
+3156,Rafael Pereira da Silva,Lyon,1501.3333333333333,21
+3160,Rene Krhin,Granada,1506.7833333333333,24
+3161,Chaouki Ben Saada,Troyes,852.9,17
+3162,Gnaly Maxwell Cornet,Lyon,1575.0833333333333,31
+3165,Emmanuel Rivière,Newcastle United,72.35,3
+3166,Marco Verratti,Paris Saint-Germain,1069.7,17
+3167,Antonio Rüdiger,AS Roma,2755.9833333333336,30
+3168,João Filipe Iria Santos Moutinho,AS Monaco,2209.3333333333335,26
+3174,Lévy Koffi Djidji,Nantes,1866.1166666666668,22
+3179,Nolan Roux,Saint-Étienne,2033.2333333333333,28
+3181,Lassana Diarra,Marseille,2155.05,26
+3184,Enzo Crivelli,Bordeaux,1603.25,28
+3185,Thomas Mangani,Angers,2551.3333333333335,33
+3189,Étienne Didot,Toulouse,1660.45,23
+3190,Gaëtan Laborde,Bordeaux,15.716666666666669,1
+3191,Ramy Bensebaini,Montpellier,1401.45,22
+3193,Bernardo Mota Veiga de Carvalho e Silva,AS Monaco,2333.5666666666666,32
+3195,Mehdi Zeffane,Rennes,856.0333333333333,16
+3196,Wahbi Khazri,Bordeaux,2731.25,34
+3200,Renaud Cohade,Saint-Étienne,1089.45,18
+3203,Yoann Andreu,Angers,2827.45,31
+3204,Almamy Touré,AS Monaco,791.4333333333333,10
+3205,Kyle Walker,Tottenham Hotspur,3070.3,33
+3207,Pablo Jean Antoine Martínez,Gazélec Ajaccio,2279.0666666666666,27
+3210,Valère Germain,OGC Nice,3185.7166666666667,38
+3211,Florent Balmont,Lille,1979.9166666666667,28
+3213,Jimmy Briand,Guingamp,3056.366666666667,35
+3217,Jemerson de Jesus Nascimento,AS Monaco,302.25,4
+3218,Marcos Paulo Mesquita Lopes,AS Monaco,661.85,14
+3220,Franck Tabanou,Saint-Étienne,633.3166666666667,10
+3229,Maxime Le Marchand,OGC Nice,2275.0333333333333,26
+3230,Alassane Pléa,OGC Nice,1430.2666666666667,19
+3233,Raheem Sterling,Manchester City,1988.0833333333333,31
+3235,Ludovic Blas,Guingamp,673.4,14
+3236,Sergi Darder Moll,Lyon,1602.7,27
+3237,Sergio Leonel Agüero del Castillo,Manchester City,2422.85,30
+3240,Mathew Ryan,Valencia,752.4833333333333,8
+3244,John Stones,Everton,2910.0166666666664,33
+3245,Thomas Lemar,AS Monaco,1864.7,26
+3246,Guido Marcelo Carrillo,AS Monaco,1683.8833333333334,31
+3247,Fábio Henrique Tavares,AS Monaco,3190.633333333333,34
+3248,Hamari Traoré,Stade de Reims,3032.116666666667,33
+3250,Edson André Sitoe,Rennes,1350.65,16
+3253,Adil Rami,Sevilla,2508.55,28
+3254,Florian Thauvin,Marseille,1446.5333333333333,29
+3256,Nicolas Pallois,Bordeaux,1498.75,16
+3257,Steve Michel Mounié,Montpellier,43.33333333333333,2
+3261,Benjamin Mendy,Marseille,2032.7333333333333,24
+3262,Łukasz Fabiański,Swansea City,3492.2,37
+3263,Craig Cathcart,Watford,3186.15,35
+3265,José Luis Sanmartín Mato,Stoke City,1163.5,22
+3267,Luis Antonio Valencia Mosquera,Manchester United,905.7166666666667,14
+3270,Danny Simpson,Leicester City,2721.35,30
+3272,Oriol Romeu Vidal,Southampton,1710.4333333333334,29
+3277,Yohan Cabaye,Crystal Palace,2773.5,33
+3278,Benik Afobe,AFC Bournemouth,958.5833333333334,15
+3286,Nathan Redmond,Norwich City,2461.9333333333334,35
+3287,Nathaniel Chalobah,Napoli,46.14999999999999,5
+3288,Miguel Ángel Britos Cabrera,Watford,2170.9166666666665,24
+3289,Romelu Lukaku Menama,Everton,3299.483333333333,37
+3290,Federico Fernández,Swansea City,3018.5166666666664,32
+3291,Joe Hart,Manchester City,3241.45,35
+3292,Abdoulaye Doucouré,Rennes,2205.95,31
+3293,Jesse Lingard,Manchester United,1701.35,25
+3294,Juan Manuel Mata García,Manchester United,2992.233333333333,38
+3295,Thiago Emiliano da Silva,Paris Saint-Germain,2706.1,30
+3296,Marouane Fellaini-Bakkioui,Manchester United,1107.55,18
+3297,Andros Townsend,Newcastle United,1206.4,16
+3300,Maya Yoshida,Southampton,1095.6666666666667,20
+3301,Nicolas Benezet,Guingamp,1278.2333333333333,19
+3302,Nordin Amrabat,Málaga,1559.8333333333333,25
+3304,Harry Arter,AFC Bournemouth,1701.65,21
+3306,Nathan Aké,Watford,1977.2,24
+3307,Marc Albrighton,Leicester City,2834.6,38
+3308,Kieran Trippier,Tottenham Hotspur,482.33333333333337,6
+3309,Sebastian Prödl,Watford,1864.55,21
+3310,Tom Carroll,Tottenham Hotspur,570.8166666666666,19
+3311,Daley Blind,Manchester United,3245.833333333333,35
+3312,Demarai Gray,Leicester City,228.21666666666664,12
+3314,Phil Jones,Manchester United,559.2666666666667,10
+3316,James Tomkins,West Ham United,2048.866666666667,25
+3318,Marcus Rashford,Manchester United,876.7833333333333,11
+3319,Yacine Bammou,Nantes,1596.6,32
+3321,Patrick van Aanholt,Sunderland,3114.7,33
+3322,Jonas Lössl,Guingamp,3472.5833333333335,37
+3323,Tyrone Mings,AFC Bournemouth,11.25,1
+3324,Eric Bertrand Bailly,Villarreal,2080.616666666667,25
+3325,Marko Arnautović,Stoke City,2900.7166666666667,34
+3326,Chung-Yong Lee,Crystal Palace,426.4166666666667,13
+3328,James Ward-Prowse,Southampton,1655.7666666666667,33
+3329,Cédric Ricardo Alves Soares,Southampton,2047.3833333333332,24
+3333,David de Gea Quintana,Manchester United,3198.1833333333334,34
+3337,Jermain Defoe,Sunderland,2673.2,33
+3339,Asmir Begović,Chelsea,1476.7166666666667,17
+3340,Kyle Naughton,Swansea City,1878.1666666666667,27
+3341,Steve Cook,AFC Bournemouth,3347.55,36
+3343,Dan Gosling,AFC Bournemouth,2569.5,34
+3344,Andrew Surman,AFC Bournemouth,3591.5666666666666,38
+3345,Charlie Daniels,AFC Bournemouth,3444.05,37
+3346,Joshua King,AFC Bournemouth,1976.3333333333333,31
+3347,André Ayew Pelé,Swansea City,3019.2666666666664,34
+3348,Younousse Sankharé,Guingamp,3035.45,33
+3349,Michail Antonio,West Ham United,2138.45,26
+3354,Benoît Guy Robert Costil,Rennes,2903.4333333333334,31
+3356,Valentín Vada,Bordeaux,885.8166666666667,15
+3357,Baptiste Guillaume,Lille,576.6666666666666,10
+3359,Jean Michaël Seri,OGC Nice,3196.95,38
+3361,Clément Grenier,Lyon,1054.0,18
+3363,Marcus Coco,Guingamp,1785.7333333333333,30
+3364,Jonathan Martins-Pereira,Troyes,2361.85,27
+3365,Valentin Rongier,Nantes,766.3666666666667,11
+3371,Mario Barwuah Balotelli,AC Milan,905.3333333333334,20
+3372,Rachid Ghezzal,Lyon,1670.4333333333334,29
+3374,Andrea Raggi,AS Monaco,2720.1833333333334,31
+3375,Adrien Thomasson,Nantes,2588.8,34
+3379,Alphonse Areola,Villarreal,2992.25,32
+3380,Christian Benteke Liolo,Liverpool,1635.55,29
+3381,Nemanja Matić,Chelsea,2518.5333333333333,33
+3382,Luke Shaw,Manchester United,470.1333333333333,5
+3385,Alexis Alejandro Sánchez Sánchez,Arsenal,2519.0666666666666,30
+3388,Jack Wilshere,Arsenal,147.83333333333331,3
+3389,Eliaquim Mangala,Manchester City,2090.983333333333,23
+3391,Rolando Aarons,Newcastle United,415.01666666666665,10
+3394,Laurent Koscielny,Arsenal,2971.55,33
+3403,Alexandre Mendy,OGC Nice,429.5833333333333,18
+3404,Youssouf Sabaly,Nantes,2604.4666666666667,28
+3405,François Kamano,Bastia,1454.9833333333333,23
+3406,Jérémy Toulalan,AS Monaco,2316.133333333333,25
+3407,Scott Dann,Crystal Palace,3306.0333333333333,35
+3408,Thomas Touré,Bordeaux,911.1333333333333,22
+3412,Assane Dioussé El Hadji,Empoli,853.05,15
+3413,Kévin Théophile-Catherine,Saint-Étienne,1964.9333333333334,21
+3414,Vincent Pajot,Saint-Étienne,1847.7166666666667,28
+3416,Gabriel Moisés Antunes da Silva,Carpi,2154.05,27
+3420,Rémy Cabella,Marseille,2632.3,34
+3421,Bryan Dabo,Montpellier,2951.2833333333333,36
+3423,Alexander Toft Søderlund,Saint-Étienne,861.85,13
+3424,Cheikh M'Bengue,Rennes,1969.45,23
+3425,Morgan Amalfitano,Lille,1004.1833333333333,15
+3431,Vincent Manceau,Angers,2472.7666666666664,27
+3432,Alexandre Letellier,Angers,1585.2166666666667,17
+3433,Lassana Coulibaly,Bastia,747.55,15
+3434,Stevan Jovetić,Inter Milan,1573.2833333333333,26
+3436,Idrissa Gana Gueye,Aston Villa,3203.4166666666665,35
+3437,Francis Joseph Coquelin,Arsenal,1707.5166666666667,26
+3440,Tammy Bakumo-Abraham,Chelsea,62.266666666666666,2
+3442,El-Hadji Baye Oumar Niasse,Everton,156.6,5
+3443,Joel Ward,Crystal Palace,2818.983333333333,30
+3444,Danijel Subašić,AS Monaco,3375.9333333333334,36
+3445,Radamel Falcao García Zárate,Chelsea,280.65,10
+3446,Djibril Sidibé,Lille,3426.3,37
+3448,Martin Kelly,Crystal Palace,1097.3999999999999,13
+3449,Wayne Routledge,Swansea City,1726.3666666666666,28
+3450,Jordan Ayew,Aston Villa,2458.2166666666667,30
+3451,Alexandre Lacazette,Lyon,3072.4666666666667,34
+3454,Troy Deeney,Watford,3449.7166666666667,38
+3456,Kurt Happy Zouma,Chelsea,2019.5666666666666,23
+3457,Michy Batshuayi Tunga,Marseille,3052.6,36
+3461,Petr Čech,Arsenal,3197.483333333333,34
+3462,Jack Frank Porteous Cork,Swansea City,2675.7666666666664,35
+3463,Junior Stanislas,AFC Bournemouth,1493.25,21
+3464,James McArthur,Crystal Palace,2265.7833333333333,28
+3465,Timothy Evans Fosu-Mensah,Manchester United,289.2833333333333,8
+3467,Erik Pieters,Stoke City,3231.4166666666665,35
+3468,Jordan Pickford,Sunderland,187.08333333333331,2
+3469,Bakary Sako,Crystal Palace,1121.1333333333332,20
+3471,Dejan Lovren,Liverpool,1991.25,24
+3472,Willian Borges da Silva,Chelsea,2850.983333333333,35
+3473,James Philip Milner,Liverpool,2504.4166666666665,28
+3475,Per Mertesacker,Arsenal,2134.15,24
+3476,Muhamed Bešić,Everton,597.0166666666667,12
+3477,Álvaro Borja Morata Martín,Juventus,1533.6833333333334,34
+3478,Francesc Fàbregas i Soler,Chelsea,3037.45,37
+3479,Sam Field,West Bromwich Albion,6.216666666666669,1
+3480,Geoff Cameron,Stoke City,2456.1,30
+3481,Serge Aurier,Paris Saint-Germain,1854.1666666666667,20
+3482,James Collins,West Ham United,1513.7,19
+3483,Mamadou Sakho,Liverpool,1940.8,22
+3486,Fernando Llorente Torres,Juventus,1209.5833333333333,24
+3487,Julián Speroni,Crystal Palace,185.11666666666667,2
+3488,Wayne Hennessey,Crystal Palace,2736.65,29
+3490,James Morrison,West Bromwich Albion,1395.9333333333334,18
+3491,Dimitri Payet,West Ham United,2687.6,30
+3493,Emre Can,Liverpool,2606.233333333333,30
+3495,Joe Gomez,Liverpool,453.15,5
+3496,Mesut Özil,Arsenal,3135.2666666666664,35
+3497,Vicente Iborra De La Fuente,Sevilla,1785.2666666666667,29
+3498,Ignacio Monreal Eraso,Arsenal,3397.8333333333335,37
+3501,Philippe Coutinho Correia,Liverpool,2059.1666666666665,26
+3504,Ruben Loftus-Cheek,Chelsea,449.48333333333335,13
+3507,Wilfried Zaha,Crystal Palace,2592.2166666666667,34
+3508,Sandro Ramírez Castillo,Barcelona,368.7833333333333,10
+3509,Thibaut Courtois,Chelsea,2120.483333333333,23
+3511,Héctor Bellerín Moruno,Arsenal,3384.2833333333333,36
+3514,James McClean,West Bromwich Albion,2534.333333333333,35
+3515,Alberto Moreno Pérez,Liverpool,2680.1833333333334,32
+3517,Aaron Ramsey,Arsenal,2740.6666666666665,31
+3518,Leighton Baines,Everton,1556.2833333333333,18
+3520,Jeffrey Schlupp,Leicester City,1470.7666666666667,24
+3522,Heurelho da Silva Gomes,Watford,3554.15,38
+3523,Craig Dawson,West Bromwich Albion,3548.6666666666665,38
+3525,Alex Oxlade-Chamberlain,Arsenal,983.9833333333333,22
+3528,Kieran Gibbs,Arsenal,437.25,15
+3529,Daniel Andre Sturridge,Liverpool,1022.2833333333333,14
+3531,Mohamed Salah,AS Roma,2789.35,34
+3532,Jordan Brian Henderson,Liverpool,1342.7666666666667,17
+3533,Xherdan Shaqiri,Stoke City,2057.7666666666664,27
+3534,Clinton Mua N''Jie,Tottenham Hotspur,219.0,8
+3535,Roberto Firmino Barbosa de Oliveira,Liverpool,2045.4666666666667,31
+3537,Jack Butland,Stoke City,2916.7166666666667,31
+3538,Wayne Mark Rooney,Manchester United,2502.7,28
+3539,Simon Mignolet,Liverpool,3210.6666666666665,34
+3541,Chris Brunt,West Bromwich Albion,1884.0333333333333,22
+3542,Jonjoe Kenny,Everton,63.08333333333333,1
+3543,Steve Mandanda,Marseille,3370.05,36
+3544,Grégory Sertic,Bordeaux,24.083333333333332,1
+3546,Morgan Sanson,Montpellier,589.4,14
+3549,Romain Thomas,Angers,3337.75,36
+3552,Benjamin Jeannot,Lorient,1843.0833333333333,29
+3553,Lacina Traoré,AS Monaco,851.8,19
+3556,Serge Gakpé,Genoa,915.45,18
+3567,Georginio Wijnaldum,Newcastle United,3305.0833333333335,38
+3568,Mohamed Naser Elsayed Elneny,Arsenal,821.3166666666666,11
+3569,Daniel Nii Tackie Mensah Welbeck,Arsenal,595.5666666666666,11
+3576,Martin Olsson,Norwich City,1873.0666666666666,24
+3577,Molla Wagué,Udinese,1766.1166666666668,21
+3579,Roberto Maximiliano Pereyra,Juventus,823.3333333333333,13
+3583,Ashley Westwood,Aston Villa,2845.05,32
+3585,Erik Lamela,Tottenham Hotspur,2439.55,34
+3586,Samuel Mark Byram,West Ham United,305.5333333333333,4
+3588,Wesley Hoedt,Lazio,2142.6,25
+3589,Yannick Bolasie Yala,Crystal Palace,2174.9333333333334,26
+3590,Rhu-endly Martina,Southampton,1140.6333333333334,15
+3594,Danny Rose,Tottenham Hotspur,2212.4333333333334,24
+3595,Manuel Lanzini,West Ham United,1974.9833333333333,26
+3596,Gareth McAuley,West Bromwich Albion,3205.4666666666667,34
+3598,Wilfried Guemiand Bony,Manchester City,1294.75,26
+3600,Morgan Schneiderlin,Manchester United,2311.0833333333335,29
+3601,Charly Musonda Junior,Real Betis,1271.1,16
+3602,Faustino Marcos Alberto Rojo,Manchester United,1291.0333333333333,16
+3603,Mame Biram Diouf,Stoke City,1361.8166666666666,26
+3604,Olivier Giroud,Arsenal,2550.233333333333,38
+3605,Sung-Yeung Ki,Swansea City,1942.3666666666666,28
+3606,Ander Herrera Agüera,Manchester United,1596.8833333333332,27
+3607,James McCarthy,Everton,2527.7,29
+3608,Simon Francis,AFC Bournemouth,3553.7833333333333,38
+3609,Michel Vorm,Tottenham Hotspur,94.36666666666666,1
+3610,Roque Mesa Quevedo,Las Palmas,2893.3166666666666,34
+3611,Kevin Wimmer,Tottenham Hotspur,851.5166666666667,10
+3612,Ashley Young,Manchester United,1118.5666666666666,18
+3616,Callum Wilson,AFC Bournemouth,812.0333333333333,13
+3619,Alex McCarthy,Crystal Palace,663.5,7
+3621,Eden Hazard,Chelsea,2311.8166666666666,31
+3623,Adrián San Miguel del Castillo,West Ham United,3021.5666666666666,32
+3625,Sofiane Boufal,Lille,2393.8166666666666,29
+3626,Ben Watson,Watford,2959.6666666666665,35
+3629,Sadio Mané,Southampton,2689.4666666666667,37
+3631,Nathan Dyer,Leicester City,296.41666666666663,13
+3633,Gareth Barry,Everton,2971.35,33
+3635,Jordon Ibe,Liverpool,1253.6666666666667,27
+3636,Charlie Adam,Stoke City,1103.9166666666667,22
+3637,Grzegorz Krychowiak,Sevilla,2354.5166666666664,26
+3638,Shkodran Mustafi,Valencia,2780.0666666666666,30
+3639,Georges-Kévin Nkoudou Mbida,Marseille,2153.616666666667,28
+3643,Phil Bardsley,Stoke City,857.5333333333333,11
+3644,Ashley Williams,Swansea City,3398.1,36
+3645,Gary Cahill,Chelsea,2069.0833333333335,23
+3646,Marc Pugh,AFC Bournemouth,1411.65,26
+3647,Alex Iwobi,Arsenal,645.75,13
+3649,Karl Darlow,Newcastle United,849.2,9
+3650,Daryl Janmaat,Newcastle United,2876.133333333333,32
+3651,Matt Targett,Southampton,1105.9166666666667,14
+3652,Tom Davies,Everton,103.98333333333333,2
+3654,Daniel William John Ings,Liverpool,358.3666666666667,6
+3656,Alex Pritchard,West Bromwich Albion,83.14999999999999,3
+3658,DeAndre Yedlin,Sunderland,1903.25,23
+3659,Wilfredo Daniel Caballero,Manchester City,327.75,4
+3660,Davide Zappacosta,Torino,1342.5333333333333,25
+3662,Danny Drinkwater,Leicester City,3164.733333333333,35
+3665,Andrew Philip King,Leicester City,1167.8333333333333,25
+3666,Robert Kenedy Nunes do Nascimento,Chelsea,606.5666666666666,14
+3668,Theo Walcott,Arsenal,1432.6666666666667,28
+3669,Virgil van Dijk,Southampton,3213.133333333333,34
+3670,Jonathan Walters,Stoke City,1823.1833333333334,27
+3671,José Leonardo Ulloa,Leicester City,1077.3166666666666,29
+3672,Zlatan Ibrahimović,Paris Saint-Germain,2526.233333333333,30
+3673,Yassine Benzia,Lille,1370.75,25
+3674,Vitorino Hilton da Silva,Montpellier,3295.366666666667,36
+3676,Jérôme Roussillon,Montpellier,2734.483333333333,33
+3677,Bakary Adama Soumaoro,Lille,2435.4666666666667,28
+3679,Souleymane Camara,Montpellier,2053.05,33
+3682,Paul Lasne,Montpellier,536.6,9
+3683,Tom Cleverley,Everton,1686.3833333333332,22
+3684,Cheikhou Kouyaté,West Ham United,3151.85,34
+3685,Jay Rodriguez,Southampton,384.20000000000005,12
+3693,Damien Delaney,Crystal Palace,3016.85,32
+3708,Kelechi Promise Iheanacho,Manchester City,841.3666666666667,26
+3709,Daniel Amartey,Leicester City,120.49999999999999,5
+3713,Calum Chambers,Arsenal,371.21666666666664,12
+3721,Etienne Capoue,Watford,2933.7666666666664,33
+3722,Steven Taylor,Newcastle United,846.3666666666667,10
+3725,José Holebas,Watford,984.9,11
+3726,Gerard Deulofeu Lázaro,Everton,1446.95,26
+3731,Adrian Mariappa,Crystal Palace,260.5333333333333,3
+3735,Wesley Saïd,Rennes,13.36666666666666,1
+3742,Orestis Karnezis,Udinese,3568.266666666667,38
+3745,Lucas Rodrigues Moura da Silva,Paris Saint-Germain,2311.0833333333335,35
+3753,Pedro Filipe Teodósio Mendes,Rennes,1929.5333333333333,22
+3761,Mike Maignan,Lille,307.25,4
+3767,Ellyes Joris Skhiri,Montpellier,845.2666666666667,12
+3769,Wesley Lautoa,Lorient,1045.0666666666666,13
+3779,Cédric Yambéré,Bordeaux,2358.7166666666667,26
+3797,Ismaël Tiémoko Diomandé,Saint-Étienne,746.15,13
+3807,Ryan Allsop,AFC Bournemouth,53.349999999999994,1
+3810,Shinji Okazaki,Leicester City,2116.15,36
+3812,Christian Fuchs,Leicester City,2845.116666666667,32
+3813,Wes Morgan,Leicester City,3594.0166666666664,38
+3814,Riyad Mahrez,Leicester City,3107.366666666667,37
+3815,Kasper Schmeichel,Leicester City,3594.0166666666664,38
+3828,Steven Davis,Southampton,2698.1833333333334,34
+3831,Dušan Tadić,Southampton,2348.2,34
+3834,Ivan Toney,Newcastle United,22.88333333333334,2
+3842,Shane Long,Southampton,2215.85,28
+3843,Angelo Obinze Ogbonna,West Ham United,2448.6666666666665,28
+3874,Mark Noble,West Ham United,3327.55,37
+3897,Pedro Mba Obiang Avomo,West Ham United,1174.4666666666667,24
+3908,Nick Powell,Manchester United,22.933333333333337,1
+3944,Gylfi Þór Sigurðsson,Swansea City,3042.5666666666666,36
+3949,Manolo Gabbiadini,Napoli,619.1333333333333,23
+3951,Mario Lemina,Marseille,1104.8166666666666,14
+3953,Aaron Lennon,Everton,1617.95,25
+3955,Tiemoué Bakayoko,AS Monaco,1425.8166666666666,19
+3956,David Luiz Moreira Marinho,Paris Saint-Germain,2160.616666666667,25
+3957,César Azpilicueta Tanco,Chelsea,3360.8,37
+3958,Pedro Eliezer Rodríguez Ledesma,Chelsea,2112.5833333333335,29
+3960,José Miguel da Rocha Fonte,Southampton,3311.983333333333,37
+3961,N''Golo Kanté,Leicester City,3179.8166666666666,37
+3962,Diafra Sakho,West Ham United,1571.7833333333333,21
+3963,Victor Moses,West Ham United,1025.5833333333333,21
+3964,Marcos Alonso Mendoza,Fiorentina,2456.1833333333334,31
+3966,Charlie Austin,Southampton,230.96666666666667,7
+3967,Claudio Ariel Yacob,West Bromwich Albion,2954.7666666666664,34
+3970,Fraser Forster,Southampton,1701.7666666666667,18
+3973,Àngel Rangel Zaragoza,Swansea City,1899.6666666666667,23
+3980,Johny Placide,Stade de Reims,1688.5166666666667,19
+3990,Jesé Rodríguez Ruiz,Real Madrid,887.1833333333333,28
+3991,Allan Romeo Nyom,Watford,2575.2166666666667,32
+4022,Darren Fletcher,West Bromwich Albion,3533.583333333333,38
+4035,Ryan Shawcross,Stoke City,1772.3,20
+4040,Peter Crouch,Stoke City,504.15,11
+4041,José Salomón Rondón Giménez,West Bromwich Albion,2646.5499999999997,34
+4045,Leroy Fer,Swansea City,784.3,11
+4053,Ben Foster,West Bromwich Albion,1410.9166666666665,15
+4090,Adam David Lallana,Liverpool,2189.25,30
+4093,Jay Fulton,Swansea City,28.650000000000006,2
+4097,Matt Grimes,Swansea City,94.33333333333333,1
+4116,Sullay Kaikai,Crystal Palace,47.05,1
+4129,Tyler Roberts,West Bromwich Albion,20.41666666666667,1
+4217,Danny Graham,Sunderland,382.85,10
+4243,Cameron Brannagan,Liverpool,121.43333333333332,3
+4249,Wilfried Moimbé,Nantes,1373.8,15
+4253,Ole Kristian Selnæs,Saint-Étienne,181.5,3
+4254,Valentin Eysseric,OGC Nice,1830.2666666666667,30
+4255,Jean-Victor Makengo,Stade Malherbe Caen,450.43333333333334,10
+4256,Jonathan Bamba,Saint-Étienne,298.15,5
+4257,Yoan Cardinale,OGC Nice,2393.4,26
+4258,Ronaël Pierre-Gabriel,Saint-Étienne,339.1333333333333,5
+4259,Stéphane Ruffier,Saint-Étienne,3467.2166666666667,37
+4260,Romain Hamouma,Saint-Étienne,1661.2333333333333,24
+4263,Loïc Perrin,Saint-Étienne,2187.35,24
+4264,Vincent Koziello,OGC Nice,2768.95,35
+4265,Oussama Tannane,Saint-Étienne,591.0333333333333,9
+4269,Aleksandar Mitrović,Newcastle United,2222.4,34
+4270,Jérémy Pied,OGC Nice,3079.7666666666664,33
+4271,Andy Carroll,West Ham United,1534.7333333333333,27
+4273,Reece Oxford,West Ham United,230.53333333333333,7
+4275,Ross Barkley,Everton,3181.8166666666666,38
+4276,David Ospina Ramírez,Arsenal,375.46666666666664,4
+4280,Winston Reid,West Ham United,2241.5,24
+4317,Kevin Mirallas,Everton,1080.4166666666665,23
+4319,Edinson Roberto Cavani Gómez,Paris Saint-Germain,2370.133333333333,31
+4320,Neymar da Silva Santos Junior,Barcelona,3138.65,34
+4324,Daniel Alves da Silva,Barcelona,2204.55,29
+4325,Thiago Motta,Paris Saint-Germain,2316.4833333333336,31
+4326,Layvin Kurzawa,AS Monaco,1565.5333333333333,19
+4345,Lucas Ariel Ocampos,Marseille,814.3666666666667,17
+4346,Gilbert Gianelli Imbula Wanga,Stoke City,1320.9333333333334,14
+4347,Jordan Amavi,Aston Villa,884.6,10
+4349,Issa Diop,Toulouse,1962.0833333333333,21
+4350,Yannick Cahuzac,Bastia,2548.133333333333,30
+4351,Bouna Sarr,Marseille,1066.9666666666667,25
+4352,Issiaga Sylla,Gazélec Ajaccio,2809.0166666666664,34
+4353,Aymeric Laporte,Athletic Club,2286.0666666666666,26
+4355,Emerson Palmieri dos Santos,AS Roma,209.20000000000002,8
+4369,Issa Cissokho,Genoa,686.35,13
+4370,Javier Matías Pastore,Paris Saint-Germain,902.0333333333333,16
+4372,Marcos Aoás Corrêa,Paris Saint-Germain,1910.9,28
+4373,Mathieu Bodmer,OGC Nice,1414.6,19
+4375,Blaise Matuidi,Paris Saint-Germain,2033.7333333333333,30
+4377,Maxime Dupé,Nantes,651.0166666666667,7
+4380,Guillaume Gillet,Nantes,1782.5333333333333,19
+4382,Kévin Malcuit,Saint-Étienne,639.2166666666667,8
+4383,Nicolas de Roussel de Préville,Stade de Reims,3007.0333333333333,36
+4386,Damien Da Silva,Stade Malherbe Caen,2565.9166666666665,28
+4390,Charles Traoré,Troyes,470.9,5
+4406,Aymen Abdennour,Valencia,1923.5166666666667,22
+4407,Sanjin Prcić,Torino,34.33333333333334,2
+4410,Christophe Jallet,Lyon,1828.65,23
+4411,Anthony Walongwa,Nantes,92.93333333333334,1
+4413,Aloïs Confais,Troyes,1194.7,14
+4416,Max-Alain Gradel,AFC Bournemouth,905.65,14
+4417,Ola Toivonen,Rennes,703.2333333333333,13
+4418,Matheus Dória Macedo,Granada,643.8,8
+4428,Mathieu Debuchy,Bordeaux,853.6666666666666,10
+4429,Yann Gérard M'Vila,Sunderland,3336.133333333333,37
+4431,Kévin Monnet-Paquet,Saint-Étienne,2261.5833333333335,30
+4432,Yohann Pelé,Olympique de Marseille,192.03333333333336,2
+4434,Thibault Giresse,Guingamp,1767.3,25
+4440,Kevin Trapp,Paris Saint-Germain,3115.233333333333,34
+4441,Billy Ketkeophomphone,Angers,2766.5666666666666,35
+4442,Maxime Poundjé,Bordeaux,1221.6,13
+4443,Paul Baysse,OGC Nice,2687.366666666667,30
+4446,Soualiho Meïté,Lille,61.26666666666667,3
+4447,Martin Braithwaite Christensen,Toulouse,3031.8,36
+4450,Bakary Koné,Lyon,450.9,6
+4454,Farès Bahlouli,AS Monaco,201.06666666666666,8
+4463,Mapou Yanga-Mbiwa,Lyon,2448.45,27
+4464,Adama Traoré,AS Monaco,380.01666666666665,6
+4465,Gabriel Boschilia,AS Monaco,161.85000000000002,5
+4469,Guy Adolphe N''Gosso Massouma,Angers,164.23333333333335,3
+4473,Nicolas Janvier,Rennes,39.10000000000001,3
+4474,Emmanuel Imorou,Caen,1236.0666666666666,15
+4475,Romain Danzé,Rennes,1666.1166666666668,21
+4498,Jean-Sylvain Claude Babin,Granada,2327.016666666667,25
+4506,Nampalys Mendy,OGC Nice,3523.0833333333335,38
+4508,Julian Palmieri,Bastia,2962.45,33
+4509,Jérôme Prior,Bordeaux,1030.4666666666667,12
+4539,Michaël Jordan Nkololo,Stade Malherbe Caen,577.4333333333334,16
+4542,Pablo Nascimento Castro,Bordeaux,1382.9333333333334,16
+4545,Prince Oniangué,Stade de Reims,2186.5,27
+4546,Dimitri Foulquier,Granada,1600.75,21
+4547,Ludovic Butelle,Angers,1780.25,19
+4558,Pape Cheikh Diop Gueye,Celta Vigo,68.86666666666666,5
+4587,Matteo Darmian,Manchester United,1990.6833333333334,28
+4589,Séamus Coleman,Everton,2485.0,28
+4590,Nathaniel Edwin Clyne,Liverpool,3115.5833333333335,33
+4597,Fabian Delph,Manchester City,790.3,17
+4599,Quentin Cornette,Montpellier,162.43333333333334,5
+4601,Robert Berič,Saint-Étienne,706.0,10
+4602,Yoann Gourcuff,Rennes,632.8333333333334,12
+4628,Diego Armando Valentin Contento,Bordeaux,2208.5,25
+4629,José Ramiro Funes Mori,Everton,2309.5333333333333,28
+4630,Saido Berahino,West Bromwich Albion,1836.8833333333332,31
+4631,Leon Britton,Swansea City,1576.9166666666667,25
+4632,Stephen Ireland,Stoke City,288.5833333333333,13
+4669,William Jean Rémy,Montpellier,2478.65,28
+4691,Claudio Andrés Bravo Muñoz,Barcelona,2959.8,32
+4700,Matthew Pennington,Everton,312.16666666666663,4
+4709,Pontus Jansson,Torino,643.1333333333333,7
+4711,Pablo Hernández Domínguez,Rayo Vallecano,1964.1666666666667,27
+4723,Mickaël Le Bihan,OGC Nice,145.23333333333335,3
+4724,Glen Johnson,Stoke City,2275.983333333333,25
+4726,Kyle Bartley,Swansea City,306.3,5
+4738,Lee Tomlin,AFC Bournemouth,313.95,6
+4741,Juan Rafael Fuentes Hernández,Espanyol,780.35,10
+4746,Younes Kaboul,Sunderland,2103.3166666666666,23
+4747,Divock Okoth Origi,Liverpool,716.3166666666666,16
+4751,Michael Carrick,Manchester United,2059.0333333333333,28
+4762,Sergi Canós Tenes,Liverpool,11.983333333333334,1
+4766,Neal Maupay,Saint-Étienne,560.5,15
+4776,Enock Kwateng,Nantes,34.516666666666666,2
+4788,Jesús Gámez Duarte,Atlético Madrid,760.85,10
+4799,Sloan Privat,Guingamp,1320.6833333333334,27
+4802,Florentin Pogba,Saint-Étienne,1936.35,23
+4803,Mathieu Gorgelin,Lyon,93.28333333333333,1
+4804,Bradley Johnson,Norwich City,167.08333333333331,4
+4807,Cameron Jerome,Norwich City,1865.2166666666667,34
+4808,Andre Wisdom,Norwich City,861.65,10
+4817,Joe Ledley,Crystal Palace,1029.1,19
+4823,Milan Gajić,Bordeaux,608.6333333333333,9
+4826,Yohan Benalouane,Leicester City,89.68333333333334,4
+4828,Adlène Guédioura,Watford,486.51666666666665,18
+4831,Nacer Chadli,Tottenham Hotspur,1043.3166666666666,29
+4837,Josh Cullen,West Ham United,1.4333333333333371,1
+4839,Issam Ben Khémis,Lorient,23.10000000000001,1
+4840,Massadio Haïdara,Newcastle United,577.6166666666667,7
+4884,Pape N''Diaye Souaré,Crystal Palace,3155.5,34
+4891,Ibrahim Afellay,Stoke City,2179.9,31
+4892,Sergio Germán Romero,Manchester United,376.1166666666667,4
+4895,Henri Bedimo Nsamè,Lyon,1284.7666666666667,18
+4900,Paul-Georges Ntep de Madiba,Rennes,941.55,14
+4902,Kevin Rimane,Paris Saint-Germain,5.75,1
+4906,Arnold Bouka Moutou,Angers,1312.2,23
+4908,Jérémie Porsan-Clemente,Olympique de Marseille,2.4666666666666686,1
+4909,Jeremie Boga,Rennes,1070.4333333333334,27
+4913,Bojan Krkíc Pérez,Stoke City,1748.75,27
+4926,Francisco Román Alarcón Suárez,Real Madrid,1878.8999999999999,31
+5108,Glyn Oliver Myhill,West Bromwich Albion,2176.7833333333333,23
+5109,Paulo Dino Gazzaniga,Southampton,187.83333333333331,2
+5110,Henri Saivet,Bordeaux,1776.55,22
+5186,Denis Cheryshev,Real Madrid,531.2,9
+5198,Diego da Silva Costa,Chelsea,2477.5666666666666,28
+5199,Jorge Resurrección Merodio,Atlético Madrid,3062.4,35
+5200,Lucas Vázquez Iglesias,Real Madrid,1292.95,25
+5201,Sergio Ramos García,Real Madrid,1997.6166666666668,23
+5202,José Ignacio Fernández Iglesias,Real Madrid,1204.6166666666666,16
+5203,Sergio Busquets i Burgos,Barcelona,2975.7,35
+5204,Bruno Miguel Borges Fernandes,Udinese,2180.25,31
+5207,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,3282.6666666666665,36
+5209,Raphaël Adelino José Guerreiro,Lorient,2607.4666666666667,34
+5211,Jordi Alba Ramos,Barcelona,2664.75,31
+5213,Gerard Piqué Bernabéu,Barcelona,2651.75,30
+5216,Andrés Iniesta Luján,Barcelona,2306.983333333333,28
+5217,Iago Aspas Juncal,Celta Vigo,2726.2833333333333,35
+5219,Romain Saïss,Angers,3207.1,35
+5246,Luis Alberto Suárez Díaz,Barcelona,3242.633333333333,35
+5248,José Martín Cáceres Silva,Juventus,458.18333333333334,6
+5249,Diego Roberto Godín Leal,Atlético Madrid,2741.6666666666665,31
+5255,Matías Vecino Falero,Fiorentina,2499.25,30
+5259,José María Giménez de Vargas,Atlético Madrid,2513.733333333333,27
+5264,Guillermo Varela Olivera,Manchester United,334.4666666666667,4
+5456,Mateo Kovačić,Real Madrid,1087.7666666666667,25
+5457,Ivan Strinić,Napoli,262.65,5
+5458,Odion Jude Ighalo,Watford,3281.983333333333,37
+5460,Andrej Kramarić,Leicester City,32.716666666666654,2
+5461,Šime Vrsaljko,Sassuolo,3189.2833333333333,35
+5463,Luka Modrić,Real Madrid,2685.8,32
+5465,Ante Rebić,Fiorentina,777.8666666666667,14
+5469,Marcelo Brozović,Inter Milan,2505.1666666666665,32
+5470,Ivan Rakitić,Barcelona,2638.9666666666667,36
+5472,Mario Mandžukić,Juventus,2104.633333333333,27
+5474,Ivan Perišić,Inter Milan,2523.1,34
+5475,John Michael Nchekwube Obinna,Chelsea,1886.8333333333333,25
+5476,Benjamin Pavard,Lille,672.0333333333333,13
+5477,Ousmane Dembélé,Rennes,2001.1333333333332,26
+5480,Corentin Tolisso,Lyon,2698.5666666666666,33
+5484,Lucas Hernández Pi,Atlético Madrid,866.9,10
+5485,Raphaël Varane,Real Madrid,2257.983333333333,26
+5487,Antoine Griezmann,Atlético Madrid,3123.266666666667,38
+5489,Mile Jedinak,Crystal Palace,1645.25,27
+5492,Samuel Yves Umtiti,Lyon,2768.883333333333,30
+5497,Gonzalo Gerardo Higuaín,Napoli,3045.8,35
+5503,Lionel Andrés Messi Cuccittini,Barcelona,2807.4333333333334,33
+5504,Éver Maximiliano David Banega,Sevilla,1773.2,25
+5506,Javier Alejandro Mascherano,Barcelona,2765.633333333333,32
+5510,Lucas Rodrigo Biglia,Lazio,2405.0833333333335,27
+5512,Emil Hallfreðsson,Hellas Verona,1946.4,27
+5539,Carlos Henrique Casimiro,Real Madrid,1581.9,23
+5540,Valon Behrami,Watford,1334.95,21
+5541,Stephan Lichtsteiner,Juventus,1879.9166666666667,26
+5551,João Miranda de Souza Filho,Inter Milan,2870.65,32
+5552,Marcelo Vieira da Silva Júnior,Real Madrid,2552.1833333333334,30
+5554,Blerim Džemaili,Genoa,1832.2666666666667,27
+5556,Miguel Arturo Layún Prado,Watford,134.13333333333333,3
+5558,Rafael Márquez Álvarez,Hellas Verona,783.2166666666667,9
+5560,Carlos Alberto Vela Garrido,Real Sociedad,2828.6,35
+5566,Sami Khedira,Juventus,1562.5,20
+5574,Toni Kroos,Real Madrid,2817.3166666666666,32
+5577,Francisco Guillermo Ochoa Magaña,Málaga,987.5333333333333,11
+5581,Joel Nathaniel Campbell Samuels,Arsenal,913.6333333333333,19
+5582,Celso Borges Mora,RC Deportivo La Coruña,1971.9833333333333,24
+5584,Giancarlo González Castro,Palermo,3264.6666666666665,35
+5587,Adem Ljajić,AS Roma,1518.5833333333333,26
+5588,Antonio Rukavina,Villarreal,1409.3666666666666,18
+5589,Sergej Milinković-Savić,Lazio,1712.6166666666666,25
+5594,Branislav Ivanović,Chelsea,3067.383333333333,33
+5596,Aleksandar Kolarov,Manchester City,2391.7,29
+5597,Keylor Navas Gamboa,Real Madrid,3159.0,34
+5598,Óscar Esau Duarte Gaitán,Espanyol,1242.15,14
+5602,Cristian Gamboa Luna,West Bromwich Albion,31.56666666666667,1
+5605,Oscar Hiljemark,Palermo,2996.7666666666664,38
+5615,Isaac Kiese Thelin,Bordeaux,320.43333333333334,7
+5617,Sebastian Larsson,Sunderland,603.8333333333333,18
+5630,Dries Mertens,Napoli,1192.05,33
+5633,Yannick Ferreira Carrasco,Atlético Madrid,1546.0833333333333,29
+5653,Mouez Hassen,OGC Nice,1124.75,14
+5656,Syam Ben Youssef,Caen,1527.85,18
+5660,Piotr Zieliński,Empoli,3134.9,35
+5661,M''Baye Babacar Niang,AC Milan,1162.3833333333332,16
+5662,Thiago Rangel Cionek,Palermo,470.5333333333333,5
+5663,Jakub Błaszczykowski,Fiorentina,807.2166666666667,15
+5667,Kamil Grosicki,Rennes,1624.2,33
+5669,Wojciech Szczęsny,AS Roma,3199.45,34
+5671,Alfred John Momar N''Diaye,Real Betis,3114.4,34
+5675,Kalidou Koulibaly,Napoli,3002.25,33
+5676,Cheikh N''Doye,Angers,2876.85,32
+5678,Jefferson Andrés Lerma Solís,Levante UD,2770.8,33
+5683,Keisuke Honda,AC Milan,1998.9666666666667,30
+5685,Carlos Alberto Sánchez Moreno,Aston Villa,1437.1499999999999,20
+5687,Takashi Inui,Eibar,1675.2166666666667,27
+5688,Carlos Arturo Bacca Ahumada,AC Milan,3266.35,38
+5689,Juan Guillermo Cuadrado Bello,Juventus,1836.6666666666665,29
+5690,Yuto Nagatomo,Inter Milan,1725.3333333333333,22
+5692,Juan Fernando Quintero Paniagua,Rennes,833.3166666666666,12
+5695,James David Rodríguez Rubio,Real Madrid,1559.5666666666666,26
+5717,Diego Sebastián Laxalt Suárez,Genoa,3201.65,35
+5718,Rodrigo Moreno Machado,Valencia,1428.2333333333333,25
+5719,Marco Asensio Willemsen,Espanyol,2910.6,34
+5721,Daniel Carvajal Ramos,Real Madrid,1678.4333333333334,22
+5724,Fayçal Fajr,RC Deportivo La Coruña,2945.9,38
+5726,Khalid Boutaïb,Gazélec Ajaccio,1910.95,30
+5727,Nabil Dirar,AS Monaco,1584.7,20
+5737,Steven N''Kemboanza Mike Christopher Nzonzi,Sevilla,1914.0333333333333,28
+5741,Enzo Nicolás Pérez,Valencia,1280.4833333333333,20
+5743,Paulo Bruno Exequiel Dybala,Juventus,2512.6666666666665,34
+5836,Bryan Oviedo,Everton,1042.6,14
+6038,John Guidetti,Celta Vigo,1328.9166666666667,35
+6284,Kolbeinn Sigþórsson,Nantes,1748.6666666666667,26
+6296,Joe Dodoo,Leicester City,27.566666666666663,1
+6300,Sebastián Coates Nión,Sunderland,1291.65,16
+6305,Milan Badelj,Fiorentina,2190.4166666666665,27
+6320,Filipe Luís Kasmirski,Atlético Madrid,2935.3,32
+6330,Adnan Januzaj,Manchester United,160.35000000000002,5
+6332,Thomas Vermaelen,Barcelona,522.1666666666666,10
+6334,Luis Fernando Muriel Fruto,Sampdoria,1763.2,32
+6335,Lamine Gassama,Lorient,2793.1833333333334,31
+6349,Federico Julián Fazio,Sevilla,304.3,4
+6352,Ricardo Domingos Barbosa Pereira,OGC Nice,2375.2833333333333,26
+6356,Michael Krohn-Dehli,Sevilla,1740.35,27
+6357,Jonathan dos Santos Ramírez,Villarreal,1812.55,26
+6358,Emil Krafth,Bologna,158.21666666666667,4
+6360,Cristian Eduardo Zapata Valencia,AC Milan,1395.2666666666667,16
+6361,James Wilson,Manchester United,10.36666666666666,1
+6375,Juan Francisco Torres Belén,Atlético Madrid,3139.65,35
+6376,Stefan Savić,Atlético Madrid,969.6333333333333,12
+6377,Ángel Martín Correa,Atlético Madrid,1013.2166666666667,26
+6378,Jan Oblak,Atlético Madrid,3544.3,38
+6379,Sergi Roberto Carnicer,Barcelona,1974.6666666666667,31
+6381,Saúl Ñíguez Esclapez,Atlético Madrid,2417.75,31
+6382,Fernando José Torres Sanz,Atlético Madrid,1757.2166666666667,30
+6383,Thomas Teye Partey,Atlético Madrid,473.98333333333335,13
+6384,Gabriel Fernández Arenas,Atlético Madrid,2970.883333333333,35
+6386,Eneko Bóveda Altube,Athletic Club,1530.5833333333333,23
+6388,Ander Iturraspe Derteano,Athletic Club,736.8666666666667,16
+6389,Mikel San José Domínguez,Athletic Club,2779.7166666666667,34
+6390,Markel Susaeta Laskurain,Athletic Club,1964.0,28
+6391,Raúl García Escudero,Atlético Madrid,2452.0,31
+6392,Íñigo Lekue Martínez,Athletic Club,1205.7666666666667,20
+6393,Iñaki Williams Arthuer,Athletic Club,1647.0166666666667,25
+6394,Aritz Aduriz Zubeldia,Athletic Club,2873.3166666666666,34
+6396,Beñat Etxebarria Urkiaga,Athletic Club,2983.383333333333,36
+6399,Gareth Frank Bale,Real Madrid,1776.6166666666666,23
+6400,Aleix Vidal Parreu,Barcelona,559.6666666666666,9
+6401,Kevin Gameiro,Sevilla,2161.8333333333335,31
+6402,Francisco Alcácer García,Valencia,2512.133333333333,34
+6409,Adam Smith,AFC Bournemouth,2230.5666666666666,31
+6557,Adrián González Morales,Eibar,2288.1,32
+6559,Juan Carlos Pérez López,Málaga,1298.25,19
+6560,Marc Muniesa Martínez,Stoke City,1163.2666666666667,15
+6561,Luis Hernández Rodríguez,Sporting Gijón,3342.2166666666667,36
+6563,Juan Pablo Añor Acosta,Málaga,1675.7,29
+6566,Borja González Tomás,Eibar,2652.45,36
+6569,Roberto José Rosales Altuve,Málaga,3188.5833333333335,35
+6573,Bernardo José Espinosa Zúñiga,Sporting Gijón,1389.8833333333334,16
+6576,Gorka Iraizoz Moreno,Athletic Club,3359.9333333333334,37
+6577,Zdravko Kuzmanović,Udinese,1179.6166666666668,16
+6580,José Luis García del Pozo,Málaga,2834.0333333333333,33
+6581,Jonathan Rodríguez Menéndez,Sporting Gijón,2948.8333333333335,36
+6584,Simone Zaza,Juventus,715.7333333333333,19
+6585,Jeison Fabián Murillo Cerón,Inter Milan,2969.3,34
+6589,Geoffrey Kondogbia,Inter Milan,2065.483333333333,26
+6590,Norberto Murara Neto,Juventus,277.1166666666667,3
+6592,Rúben Miguel Nunes Vezo,Valencia,1135.7833333333333,15
+6593,Martín Montoya Torralbo,Inter Milan,1471.7666666666667,16
+6594,Santiago Mina Lorenzo,Valencia,1623.1333333333334,26
+6595,Daniel Parejo Muñoz,Valencia,2837.9333333333334,33
+6596,José Luis Gayà Peña,Valencia,1498.25,20
+6599,Rubén Salvador Pérez Del Mármol,Granada,2555.483333333333,31
+6600,Claudio Beauvue,Lyon,1850.0,29
+6602,Miguel Ángel Guerrero Martín,Sporting Gijón,1126.3833333333332,23
+6605,Joseba Zaldúa Bengoetxea,Real Sociedad,947.5333333333333,13
+6606,Javier Eraso Goñi,Athletic Club,820.3166666666667,16
+6608,Nabil El Zhar,Las Palmas,1764.4833333333333,30
+6609,Denis Suárez Fernández,Villarreal,2465.15,33
+6610,Iván Cuéllar Sacristán,Sporting Gijón,2983.5333333333333,32
+6612,Rubén Duarte Sánchez,Espanyol,1930.7,22
+6614,Alexis Ruano Delgado,Getafe,1398.05,15
+6616,Munir El Haddadi Mohamed,Barcelona,853.15,15
+6617,Ibai Gómez Pérez,Athletic Club,128.88333333333333,5
+6622,Tomás Pina Isla,Villarreal,1700.8,27
+6623,Loïc Rémy,Chelsea,335.0166666666667,13
+6624,Jorge Franco Alviz,Espanyol,1043.0,26
+6625,Vicente Guaita Panadero,Getafe,3542.9333333333334,38
+6626,Mubarak Wakaso,Las Palmas,972.7166666666667,20
+6627,Damián Nicolás Suárez Suárez,Getafe,2726.6833333333334,31
+6630,Jorge Molina Vidal,Real Betis,966.9666666666667,23
+6631,Mathieu Flamini,Arsenal,1142.7166666666667,16
+6633,Markel Bergara Larrañaga,Real Sociedad,1391.6,20
+6636,Rodrigo Ely,AC Milan,175.63333333333333,3
+6647,Zouhair Feddal,Levante UD,2611.233333333333,28
+6648,Aïssa Mandi,Stade de Reims,2974.2166666666667,32
+6649,Óscar de Marcos Arana,Athletic Club,2983.85,34
+6651,Joaquín Sánchez Rodríguez,Real Betis,2015.4166666666667,30
+6652,Jordi Amat Maas,Swansea City,492.16666666666663,8
+6654,Antonio Adán Garrido,Real Betis,3333.9166666666665,36
+6655,Fabián Ruiz Peña,Real Betis,450.96666666666664,12
+6656,Mikel Rico Moreno,Athletic Club,727.9,17
+6658,Cristian Tello Herrera,Fiorentina,1097.0666666666666,15
+6659,Víctor Camarasa Ferrando,Levante UD,2193.366666666667,34
+6661,Ryad Boudebouz,Montpellier,3350.15,38
+6662,Iago Herrerín Buisán,Athletic Club,178.71666666666667,2
+6663,Antonio Barragán Fernández,Valencia,1718.4333333333334,24
+6665,Íñigo Martínez Berridi,Real Sociedad,2796.8166666666666,30
+6666,Sabin Merino Zuloaga,Athletic Club,1173.3833333333332,22
+6668,José Luis Morales Nogales,Levante UD,2752.233333333333,35
+6669,David Zurutuza Veillet,Real Sociedad,1149.55,16
+6671,Asier Illarramendi Andonegi,Real Sociedad,2942.3166666666666,33
+6672,Jorge Andújar Moreno,Sevilla,1800.9,21
+6673,Sergio Canales Madrazo,Real Sociedad,924.25,16
+6674,Alberto De La Bella Madureño,Real Sociedad,1291.7666666666667,15
+6675,Antonio Manuel Luna Rodríguez,Eibar,1040.0,15
+6676,Igor Zubeldia Elorza,Real Sociedad,11.100000000000009,1
+6677,Imanol Agirretxe Arruti,Real Sociedad,1203.8833333333334,16
+6679,Aritz Elustondo Irribaria,Real Sociedad,2677.0833333333335,31
+6680,Rubén Rochina Naixes,Granada,2550.5666666666666,35
+6684,Roger Martí Salvador,Levante UD,683.8166666666666,16
+6685,Mikel Oyarzabal Ugarte,Real Sociedad,1555.85,22
+6686,Giampaolo Pazzini,Hellas Verona,2006.6333333333332,30
+6690,Xabier Prieto Argarate,Real Sociedad,2460.5833333333335,36
+6692,Oier Olazábal Paredes,Real Sociedad,236.85000000000002,3
+6694,Gerónimo Rulli,Real Sociedad,3302.0166666666664,36
+6695,Juan Miguel Jiménez López,Southampton,221.20000000000005,12
+6697,Daniel Ceballos Fernández,Real Betis,2201.85,34
+6699,Ander Capa Rodríguez,Eibar,3230.883333333333,36
+6700,Sergio Enrich Ametller,Eibar,2504.5333333333333,38
+6701,Joan Jordán Moreno,Espanyol,645.6166666666667,9
+6702,David Rodríguez Lombán,Granada,2736.616666666667,31
+6706,Francisco Casilla Cortés,Real Madrid,371.6,4
+6707,Charles Días Barbosa de Oliveira,Málaga,3102.6666666666665,35
+6709,Anaitz Arbilla Zabala,Espanyol,651.3333333333333,7
+6712,Gonzalo Escalante,Eibar,2902.9333333333334,34
+6713,Diego Javier Llorente Ríos,Rayo Vallecano,2975.866666666667,33
+6716,Sébastien Corchia,Lille,2753.0333333333333,33
+6718,Sergio Escudero Palomo,Sevilla,1214.8166666666666,15
+6719,Franco Damián Vázquez,Palermo,3296.7833333333333,36
+6720,Pablo Sarabia García,Getafe,2598.1,31
+6721,Willian José da Silva,Las Palmas,1807.6833333333332,30
+6723,Wissam Ben Yedder,Toulouse,2965.1,35
+6724,Manuel Agudo Durán,Celta Vigo,2555.7166666666667,29
+6725,Zakaria Bakkali,Valencia,609.2666666666667,16
+6727,Raúl Albentosa Redal,Málaga,2651.116666666667,29
+6728,Federico Nicolás Cartabia,RC Deportivo La Coruña,1393.6,26
+6729,Guilherme dos Santos Torres,Udinese,348.93333333333334,5
+6730,Rubén Iván Martínez Andrade,Levante UD,1399.9333333333334,15
+6732,Lucas Pérez Martínez,RC Deportivo La Coruña,3243.75,36
+6733,Pedro Mosquera Parada,RC Deportivo La Coruña,3402.016666666667,37
+6734,Luis Carlos Correia Pinto,RC Deportivo La Coruña,1148.1,20
+6735,Adrián López Álvarez,Villarreal,813.6333333333333,16
+6736,Álvaro Medrán Just,Getafe,1532.45,20
+6737,Alfonso Pedraza Sag,Villarreal,105.01666666666667,2
+6738,Juan Francisco Moreno Fuertes,RC Deportivo La Coruña,2756.55,35
+6739,Diego Alejandro Rolan Silva,Bordeaux,2123.5166666666664,30
+6740,Gonzalo Castro Irizábal,Málaga,1447.5,24
+6742,Sergio Gontán Gallardo,Eibar,2367.0,29
+6743,Manuel Rolando Iturra Urrutia,Udinese,1450.9333333333334,23
+6744,Luciano Vietto,Atlético Madrid,987.2166666666667,19
+6745,Mehdi Lacen,Getafe,2752.6666666666665,31
+6746,Gabriel Armando de Abreu,Arsenal,1842.3666666666666,21
+6749,Diego González Polanco,Sevilla,113.11666666666666,2
+6751,Javier Fuego Martínez,Valencia,2116.7,26
+6752,Víctor Ruíz Torre,Villarreal,3112.25,35
+6754,David López Silva,Napoli,801.6166666666666,25
+6755,Sergio Asenjo Andrés,Villarreal,375.01666666666665,4
+6758,Víctor Sánchez Mata,Espanyol,2364.483333333333,29
+6759,Roberto Soriano,Sampdoria,2913.0166666666664,37
+6761,Leonardo Carrilho Baptistão,Villarreal,1326.45,26
+6762,Álvaro González Soberón,Espanyol,3341.9666666666667,36
+6763,Pablo Daniel Piatti,Valencia,831.2666666666667,21
+6764,Pablo Fornals Malla,Málaga,1361.1,27
+6765,Rodrigo Hernández Cascante,Villarreal,101.68333333333334,3
+6766,Gerard Moreno Balaguero,Espanyol,1982.2166666666667,32
+6768,Diego López Rodríguez,AC Milan,752.3,8
+6770,Esteban Félix Granero Molina,Real Sociedad,872.4333333333334,15
+6771,Manuel Trigueros Muñoz,Villarreal,2192.883333333333,31
+6772,Mario Gaspar Pérez Martínez,Villarreal,2984.3166666666666,33
+6775,Daniel García Carrillo,Eibar,3148.4166666666665,35
+6776,David Juncà Reñé,Eibar,2430.65,31
+6777,Sidnei Rechel da Silva Júnior,RC Deportivo La Coruña,2994.7166666666667,33
+6778,Iván Ramis Barrios,Eibar,1856.5666666666666,23
+6783,Samuel García Sánchez,Villarreal,810.3166666666666,16
+6784,Antonio García Aranda,Levante UD,2468.4666666666667,27
+6787,Pedro López Muñoz,Levante UD,1342.5,17
+6788,Xabier Etxeita Gorritxategi,Athletic Club,2571.133333333333,30
+6789,Mikel Balenziaga Oruesagasti,Athletic Club,3007.9333333333334,34
+6791,Javier López Rodríguez,Espanyol,2515.116666666667,31
+6792,Pau López Sabata,Espanyol,3314.7666666666664,36
+6794,Gustavo Daniel Cabral Cáceres,Celta Vigo,2767.65,31
+6795,Rubén Blanco Veiga,Celta Vigo,706.6166666666667,8
+6796,Nemanja Radoja,Celta Vigo,1527.1166666666666,30
+6797,Daniel Wass,Celta Vigo,2776.0166666666664,36
+6800,Carles Gil de Pareja Vicent,Aston Villa,1484.7833333333333,23
+6801,Pedro Pablo Hernández,Celta Vigo,2371.4666666666667,33
+6802,Jonathan Castro Otto,Celta Vigo,3062.5,36
+6804,Sergi Gómez Solà,Celta Vigo,2718.6833333333334,31
+6805,Hugo Mallo Novegil,Celta Vigo,3047.3333333333335,34
+6807,Roberto Suárez Pier,RC Deportivo La Coruña,56.666666666666664,2
+6821,Jesús Navas González,Manchester City,2384.7666666666664,34
+6822,Carlos Joaquín Correa,Sampdoria,1355.9833333333333,25
+6823,Sergio Rico González,Sevilla,3177.0666666666666,34
+6825,Daniel Filipe Martins Carriço,Sevilla,1095.2,14
+6827,Daniele Bonera,Villarreal,1011.9,14
+6828,Jaume Vicent Costa Jordá,Villarreal,1597.4333333333334,18
+6829,Samuel Castillejo Azuaga,Villarreal,1757.85,28
+6830,Facundo Sebastián Roncaglia,Fiorentina,2542.9333333333334,30
+6832,Rubén Castro Martín,Real Betis,3493.0666666666666,38
+6834,Gerard Gumbau Garriga,Barcelona,49.88333333333335,3
+6837,Mauro Javier Dos Santos,Eibar,2779.1833333333334,31
+6838,Hernán Arsenio Pérez González,Espanyol,2530.5,32
+6840,Marcos Llorente Moreno,Real Madrid,30.85000000000001,2
+6841,Víctor Machín Pérez,Sevilla,2125.9166666666665,28
+6842,Iker Muniain Goñi,Athletic Club,1051.9833333333333,20
+6844,Federico Ricca Rostagnol,Málaga,660.9333333333333,8
+6845,Ager Aketxe Barrutia,Athletic Club,191.03333333333333,3
+6846,Andreas Hoelgebaum Pereira,Manchester United,99.25000000000001,4
+6847,Adalberto Peñaranda Maestre,Granada,1715.7833333333333,23
+6849,Lucas Digne,AS Roma,2984.0833333333335,33
+6852,Jozabed Sánchez Ruiz,Rayo Vallecano,2128.35,27
+6856,Carlos Martín Vigaray,Getafe,1233.0166666666667,14
+6859,Nicola Sansone,Sassuolo,2652.366666666667,37
+6860,Mariano Damián Barbosa,Villarreal,183.95,2
+6861,Juan Torres Ruiz,Getafe,1983.4166666666667,22
+6862,Cédric Bakambu,Villarreal,1929.1666666666665,34
+6863,Mauro Wilney Arambarri Rosa,Bordeaux,163.73333333333332,5
+6865,Francisco José Molinero Calderón,Real Betis,1234.6166666666666,21
+6867,Papa Kouly Diop,Espanyol,2566.983333333333,30
+6869,Alejandro Arribas Garrido,RC Deportivo La Coruña,2831.9,31
+6870,José Manuel Jurado Marín,Watford,2049.1666666666665,27
+6871,Costel Fane Pantilimon,Sunderland,1603.35,17
+6872,Bruno González Cabrera,Real Betis,2919.2666666666664,32
+6873,Francisco Portillo Soler,Real Betis,1012.6666666666666,19
+6878,Miguel Torres Gómez,Málaga,2030.6166666666666,23
+6880,Arnaldo Antonio Sanabria Ayala,Sporting Gijón,2306.6666666666665,29
+6884,Sergio Álvarez Conde,Celta Vigo,2828.65,31
+6890,Andreu Fontàs Prat,Celta Vigo,562.5333333333333,7
+6894,Ezequiel Muñoz,Genoa,1460.5166666666667,18
+6898,Jaume Doménech Sánchez,Valencia,1586.45,17
+6899,Rubén Pardo Gutiérrez,Real Sociedad,1846.2,28
+6906,Jon Bautista Orgilles,Real Sociedad,123.0,4
+6907,Pedro León Sánchez Gil,Getafe,1887.05,31
+6913,Fernando Navarro i Corbacho,RC Deportivo La Coruña,3051.0833333333335,35
+6914,Roberto Román Triguero,Rayo Vallecano,2568.383333333333,29
+6918,Isaac Ajayi Success,Granada,2490.8,30
+6926,Alen Halilović,Sporting Gijón,2436.866666666667,36
+6927,David García Santana,Las Palmas,1658.4166666666667,19
+6928,Pedro Taunausú Domínguez Placeres,Las Palmas,2161.133333333333,27
+6929,José Vicente Gómez Umpiérrez,Las Palmas,1520.45,21
+6932,Dani Castellano Betancor,Las Palmas,2325.5666666666666,27
+6934,Jerónimo Figueroa Cabrera,Las Palmas,1426.4,23
+6935,Adrián Marín Gómez,Villarreal,963.8333333333333,11
+6938,Felipe Dias da Silva dal Belo,Udinese,2208.3333333333335,26
+6940,Kwadwo Asamoah,Juventus,581.2,11
+6941,Jasmin Kurtič,Atalanta,2484.866666666667,32
+6943,Andrea Barzagli,Juventus,2845.9333333333334,31
+6944,Mattia De Sciglio,AC Milan,1920.65,22
+6945,Alex Sandro Lobo Silva,Juventus,1572.2,22
+6947,Miralem Pjanić,AS Roma,2759.3166666666666,33
+6948,Sergio Floccari,Sassuolo,1636.05,25
+6949,Gianluigi Buffon,Juventus,3279.55,35
+6950,Alberto Paloschi,Chievo,2414.95,31
+6951,Filippo Costa,Chievo,151.51666666666665,6
+6952,Alberto Grassi,Atalanta,989.7,13
+6953,Daniele Rugani,Juventus,1227.4166666666667,17
+6954,Giorgio Chiellini,Juventus,1853.75,24
+6962,Radja Nainggolan,AS Roma,3046.6833333333334,35
+6963,Lorenzo Pellegrini,Sassuolo,1194.7,19
+6964,Alessandro Florenzi,AS Roma,2828.7666666666664,33
+6965,Bruno da Silva Peres,Torino,2700.1666666666665,31
+6969,Juan Guilherme Nunes Jesus,Inter Milan,1484.1,19
+6973,Edin Džeko,AS Roma,2068.3,31
+6978,Marcello Trotta,Sassuolo,224.08333333333331,8
+6979,Stephan El Shaarawy,AS Monaco,1926.2666666666667,31
+6980,Kevin Strootman,AS Roma,200.48333333333332,5
+6982,Maxime Gonalons,Lyon,3008.55,33
+6983,Remo Freuler,Atalanta,465.0833333333333,6
+6984,Danilo D''Ambrosio,Inter Milan,1695.05,20
+6987,Mauro Emanuel Icardi Rivero,Inter Milan,2669.5333333333333,33
+6990,Milan Škriniar,Sampdoria,111.28333333333333,3
+6991,Etrit Berisha,Lazio,921.6833333333333,11
+6992,Andrea Masiello,Atalanta,2498.016666666667,29
+6993,Bryan Cristante,Palermo,104.65,4
+6994,Marten de Roon,Atalanta,3222.7166666666667,36
+6997,Borja Valero Iglesias,Fiorentina,3221.7166666666667,37
+6998,Rafael Alcântara do Nascimento,Barcelona,288.09999999999997,6
+6999,Davide Santon,Inter Milan,1011.2666666666667,12
+7000,Eder Citadin Martins,Sampdoria,2485.5333333333333,33
+7001,Samir Handanovič,Inter Milan,3393.7833333333333,36
+7002,Rafael Tolói,Atalanta,1980.5166666666667,24
+7003,Roberto Gagliardini,Atalanta,81.31666666666666,1
+7005,João Pedro Cavaco Cancelo,Valencia,2190.6833333333334,28
+7006,Alejandro Darío Gómez,Atalanta,2897.25,34
+7009,Édgar Osvaldo Barreto Cáceres,Sampdoria,2243.45,30
+7010,Gastón Exequiel Ramírez Pereyra,Southampton,41.966666666666654,3
+7011,Fabio Quagliarella,Torino,2683.0,32
+7012,Vasco Regini,Sampdoria,1265.1166666666668,15
+7013,Stefano Sturaro,Juventus,1072.9833333333333,19
+7017,Duván Esteban Zapata Banguera,Udinese,1595.7833333333333,25
+7018,Emiliano Viviano,Sampdoria,3479.5,37
+7019,Matías Agustín Silvestre,Sampdoria,2062.9333333333334,25
+7020,Jacopo Sala,Hellas Verona,1734.1166666666666,23
+7022,Jesús Joaquín Fernández Sáez de la Torre,AC Milan,1243.9666666666667,20
+7024,Jorge Luiz Frello Filho,Napoli,3013.2666666666664,35
+7025,Marek Hamšík,Napoli,3313.45,38
+7026,Giacomo Bonaventura,AC Milan,2962.1833333333334,33
+7027,Christian Maggio,Napoli,428.7833333333333,8
+7028,José Manuel Reina Páez,Napoli,3454.5166666666664,37
+7029,José María Callejón Bueno,Napoli,2885.4833333333336,38
+7030,Raúl Albiol i Tortajada,Napoli,3367.8,36
+7031,Elseid Hysaj,Napoli,3399.483333333333,37
+7032,Davide Calabria,AC Milan,393.5833333333333,6
+7033,Nikola Kalinić,Fiorentina,2705.133333333333,36
+7034,Mateo Pablo Musacchio,Villarreal,1045.2666666666667,13
+7035,Allan Marques Loureiro,Napoli,2906.8166666666666,35
+7036,Gianluigi Donnarumma,AC Milan,2750.5166666666664,30
+7037,Lorenzo Insigne,Napoli,2636.0666666666666,37
+7038,Manuel Locatelli,AC Milan,102.4,2
+7041,Nicola Rigoni,Chievo,2065.983333333333,28
+7042,Ivan Radovanović,Chievo,2161.2833333333333,26
+7043,Roberto Inglese,Chievo,1450.2833333333333,26
+7045,Valter Birsa,Chievo,2392.5666666666666,35
+7046,Perparim Hetemaj,Chievo,2351.9166666666665,28
+7048,Konstantinos Manolas,AS Roma,3260.3,37
+7049,Lucas Nahuel Castro,Chievo,2904.0499999999997,34
+7050,Fabrizio Cacciatore,Chievo,2418.8,29
+7051,Daniele De Rossi,AS Roma,1974.1166666666666,24
+7052,Alessandro Gamberini,Chievo,1878.7333333333333,22
+7054,Manuel Pucciarelli,Empoli,3168.15,38
+7055,Stefano Sorrentino,Palermo,3229.5166666666664,35
+7056,Nenad Tomović,Fiorentina,1758.7333333333333,24
+7063,Jefferson Antonio Montero Vite,Swansea City,1415.4166666666667,23
+7068,Marc Bartra Aregall,Barcelona,528.2333333333333,13
+7079,Kamil Wilczek,Carpi,123.25,3
+7105,Fabián Ariel Orellana Valenzuela,Celta Vigo,2995.983333333333,33
+7107,Danilo Cataldi,Lazio,1391.8,20
+7108,Berat Djimsiti,Atalanta,278.1666666666667,3
+7109,Matteo Politano,Sassuolo,1102.5166666666667,28
+7110,Bacary Sagna,Manchester City,2553.4,28
+7113,Simone Missiroli,Sassuolo,1912.0666666666666,24
+7114,Gaetano Letizia,Carpi,3026.133333333333,35
+7118,Federico Peluso,Sassuolo,3172.233333333333,34
+7119,Francesco Acerbi,Sassuolo,3386.5666666666666,36
+7120,Claud Adjapong,Sassuolo,26.933333333333337,2
+7121,Sandro Ranieri Guimarães Cordeiro,West Bromwich Albion,413.2333333333333,12
+7123,Gianluca Pegolo,Sassuolo,156.76666666666665,2
+7125,Khouma El Hadji Babacar,Fiorentina,845.5833333333334,18
+7127,Francesco Magnanelli,Sassuolo,3197.5,34
+7130,Cheick Tidiane Diabaté,Bordeaux,1409.8666666666666,21
+7131,Domenico Berardi,Sassuolo,2229.2833333333333,29
+7132,Andrea Consigli,Sassuolo,3416.383333333333,37
+7137,Ervin Zukanović,Sampdoria,1934.0166666666667,25
+7139,Josip Iličić,Fiorentina,1960.0166666666667,30
+7141,Giuseppe Rossi,Fiorentina,1581.85,28
+7142,Luca Rossettini,Bologna,2649.7,29
+7145,Darko Lazović,Genoa,688.8000000000001,15
+7146,Goran Pandev,Genoa,866.65,15
+7147,Andrea Bertolacci,AC Milan,1885.3666666666666,27
+7148,Mattia Perin,Genoa,2348.016666666667,25
+7149,Marco Benassi,Torino,1992.3833333333334,32
+7150,Riccardo Saponara,Empoli,2719.9333333333334,33
+7151,Mário Rui Silva Duarte,Empoli,3389.8,36
+7153,Jordan Veretout,Aston Villa,1904.9333333333334,25
+7154,Sebastián Carlos Cristóforo Pepe,Sevilla,1487.6,21
+7155,Vincent Laurini,Empoli,2029.1333333333332,25
+7157,Marco Sportiello,Atalanta,3393.1833333333334,36
+7158,Cristiano Biraghi,Granada,2923.5666666666666,32
+7160,Lorenzo Tonelli,Empoli,2390.15,26
+7161,Germán Alejandro Pezzella,Real Betis,2244.5666666666666,25
+7164,Ibrahima Mbaye,Bologna,1021.9166666666666,15
+7165,Rodrigo Sebastián Palacio,Inter Milan,1477.9833333333333,27
+7166,Riccardo Montolivo,AC Milan,2782.133333333333,31
+7168,Andrea Poli,AC Milan,636.75,18
+7169,Adam Masina,Bologna,2733.65,33
+7170,Simone Verdi,Carpi,603.05,17
+7171,Fabio Borini,Sunderland,1962.9,26
+7172,Simone Romagnoli,Carpi,2762.7,30
+7173,Leonardo Bonucci,Juventus,3281.866666666667,36
+7174,Antonio Mirante,Bologna,3103.1666666666665,33
+7175,Erick Antonio Pulgar Farfán,Bologna,734.7166666666667,13
+7176,Sebastian De Maio,Genoa,2322.75,28
+7190,Denis Bouanga,Lorient,203.26666666666665,4
+7193,Paul Bernardoni,Troyes,1962.6666666666667,21
+7197,Steven Moreira,Rennes,1286.0,16
+7198,Franck Honorat,OGC Nice,137.08333333333331,6
+7199,Vincent Le Goff,Lorient,1870.3,27
+7200,Fabien Lemoine,Saint-Étienne,2440.7,32
+7207,Férébory Doré,Angers,643.1333333333333,9
+7211,Zargo Touré,Lorient,2654.3333333333335,29
+7212,Mohamed Saïd Benrahma,OGC Nice,498.46666666666664,21
+7225,Aldo Kalulu Kyatengwa,Lyon,231.65,10
+7230,Grégory Bourillon,Angers,529.2333333333333,8
+7236,Yakou Meïté,Paris Saint-Germain,2.38333333333334,1
+7237,Chaker Alhadhur,Stade Malherbe Caen,814.3,10
+7264,Thimotee Taufflieb,Paris Saint-Germain,5.433333333333337,1
+7269,Nicolas Douchez,Paris Saint-Germain,92.31666666666666,1
+7282,Jean-Louis Leca,Bastia,3011.366666666667,33
+7283,Thiago Xavier Rodrigues Corrêa,Troyes,1085.7166666666667,16
+7301,Lossémy Karaboué,Troyes,2356.133333333333,31
+7303,Lenny Nangis,Lille,538.8333333333334,14
+7308,Laurent Dos Santos,Guingamp,638.1666666666666,9
+7322,Romain Del Castillo,Lyon,40.800000000000004,2
+7323,Olivier Boscagli,OGC Nice,807.6666666666666,11
+7336,Jimmy Cabot,Troyes,1540.6333333333332,28
+7337,Mohamed Lamine Yattara,Angers,972.7166666666667,19
+7338,Romain Philippoteaux,Lorient,1483.1333333333334,31
+7344,Jordan Adéoti,Caen,1811.7,32
+7346,Lindsay Rose,Lyon,1031.3,11
+7347,Pierre-Yves Polomat,Saint-Étienne,977.1166666666667,15
+7349,Gaël Danic,Bastia,2756.6833333333334,36
+7350,Birama Touré,Nantes,1887.5833333333333,23
+7355,Olivier Michel Kemen,Lyon,109.43333333333334,2
+7358,Alexis Araujo,Lille,6.616666666666674,1
+7363,Diego Rigonato Rodrigues,Stade de Reims,1503.1,23
+7365,Rémi Mulumba,Lorient,168.18333333333334,6
+7366,Youssouf Koné,Lille,8.533333333333331,1
+7367,Grejohn Kyei,Stade de Reims,759.6,16
+7369,Aly Ndom,Stade de Reims,363.6333333333333,8
+7375,Theoson Jordan Siebatcheu,Stade de Reims,922.3833333333333,25
+7376,Yoann Court,Troyes,998.5,24
+7389,Amos Youga,Gazélec Ajaccio,1182.0833333333333,18
+7392,Pape Abdou Paye,Lorient,716.0666666666667,10
+7406,Julien Bègue,Guingamp,56.43333333333334,3
+7415,Jessy Pi,Troyes,3205.9333333333334,36
+7428,Alexandre Coeff,Gazélec Ajaccio,1987.35,23
+7430,Kévin Mayi,Gazélec Ajaccio,1017.0166666666667,23
+7432,Valentin Lavigne,Lorient,170.06666666666666,6
+7435,Anthony Weber,Stade de Reims,1654.5666666666666,19
+7438,Hassane Kamara,Stade de Reims,38.400000000000006,2
+7441,Marvin Martin,Lille,454.51666666666665,12
+7442,Jérémy Clément,Saint-Étienne,2294.116666666667,26
+7443,Nolan Mbemba,Lille,65.41666666666667,1
+7444,Alaeddine Yahia,Caen,2291.4,26
+7456,Diego Perotti,Genoa,2369.5333333333333,31
+7457,Gregoire Defrel,Sassuolo,2130.866666666667,33
+7458,Alessio Romagnoli,AC Milan,3083.866666666667,34
+7460,Isaac Cofie,Carpi,2247.6,29
+7461,Luca Rigoni,Palermo,1939.4166666666667,28
+7462,Aleandro Rosi,Frosinone,2258.016666666667,27
+7463,Ignazio Abate,AC Milan,2346.4166666666665,27
+7464,Cristian Daniel Ansaldi,Genoa,2093.5833333333335,24
+7465,Daniele Baselli,Torino,2345.4666666666667,35
+7466,Simone Edera,Torino,6.483333333333334,2
+7467,Nicolás Andrés Burdisso,Genoa,2553.2833333333333,28
+7468,Iago Falqué Silva,AS Roma,1214.3166666666666,22
+7469,Salvatore Sirigu,Paris Saint-Germain,231.9,3
+7470,Joel Chukwuma Obi,Torino,503.06666666666666,10
+7471,Andrea Belotti,Torino,2695.5333333333333,35
+7472,Nicolas Alexis Julio N'Koulou Ndoubena,Marseille,3057.3166666666666,33
+7473,Lorenzo De Silvestri,Sampdoria,1450.8,17
+7474,Afriyie Acquah,Torino,1971.3333333333333,29
+7475,Tomás Eduardo Rincón Hernández,Genoa,3048.766666666667,33
+7476,Emiliano Moretti,Torino,3307.6833333333334,35
+7479,Cristian Molinaro,Torino,2039.05,27
+7483,Mana Dembélé,Guingamp,467.2,13
+7485,Djamel Bakar,Montpellier,219.43333333333334,6
+7488,Thomas Ayasse,Troyes,1041.8166666666666,14
+7498,Mickaël Tacalfred,Stade de Reims,1209.9333333333334,15
+7509,Geoffrey Jourdren,Montpellier,650.8,7
+7510,Zakarie Labidi,Lyon,35.06666666666666,3
+7515,Jules Goda,Gazélec Ajaccio,228.63333333333333,3
+7525,Gaëtan Perrin,Lyon,42.44999999999999,3
+7552,Clément Chantôme,Bordeaux,2240.633333333333,25
+7560,Jonathan Brison,Saint-Étienne,465.7833333333333,7
+7567,Maxime Barthelmé,Lorient,1294.65,24
+7577,Carles Planas Antolínez,Celta Vigo,1752.9333333333334,26
+7590,Joris Marveaux,Montpellier,462.51666666666665,9
+7595,Dorian Caddy,OGC Nice,248.61666666666667,7
+7603,Jérémie Bréchet,Gazélec Ajaccio,1918.65,22
+7607,Abdoulaye Keita,Bastia,50.38333333333334,4
+7615,Abdul Majeed Waris,Lorient,1710.0333333333333,21
+7616,Arnold Mvuemba,Lyon,303.2833333333333,6
+7635,Gaëtan Charbonnier,Stade de Reims,1298.3166666666666,22
+7638,Gautier Lloris,OGC Nice,66.55,2
+7641,Johann Carrasso,Stade de Reims,936.8833333333333,10
+7685,Mory Koné,Troyes,247.2,3
+7692,Mauricio Lemos Merladet,Las Palmas,764.1666666666666,10
+7694,Rômulo Souza Orestes Caldeira,Hellas Verona,297.1166666666667,9
+7695,Samuel Souprayen,Hellas Verona,1650.95,20
+7696,Ryder Matos Santos,Carpi,1681.0166666666667,26
+7698,Joseph Alfred Duncan,Sassuolo,2594.15,33
+7699,Daniele Verde,Frosinone,154.53333333333333,6
+7701,Franco Zuculini,Bologna,22.39999999999999,1
+7702,Alessio Cerci,AC Milan,1352.7166666666667,24
+7704,Alex Ferrari,Bologna,1327.8333333333333,21
+7705,Mohamed Salim Fares,Hellas Verona,574.8,11
+7707,François Clerc,Saint-Étienne,904.4166666666666,10
+7721,John Tshibumbu,Gazélec Ajaccio,1114.4666666666667,22
+7726,Jeff Louis,Stade Malherbe Caen,745.7666666666667,18
+7745,Steven Berghuis,Watford,267.65,9
+7766,Walid Mesloub,Lorient,2200.4,29
+7769,Federico Mattiello,Chievo,93.86666666666666,1
+7770,Federico Viviani,Hellas Verona,1662.4166666666667,19
+7771,Dario Dainelli,Chievo,1439.0333333333333,18
+7773,Federico Bonazzoli,Sampdoria,84.96666666666668,4
+7775,Emanuele Giaccherini,Bologna,2254.0,28
+7776,Antonio Candreva,Lazio,2258.1666666666665,30
+7777,Federico Bernardeschi,Fiorentina,2361.133333333333,33
+7778,Ştefan Daniel Radu,Lazio,1124.0833333333333,13
+7780,Lucas Pezzini Leiva,Liverpool,2050.1833333333334,27
+7781,Felipe Salvador Caicedo Corozo,Espanyol,2193.85,31
+7782,Luis Alberto Romero Alconchel,RC Deportivo La Coruña,2163.7166666666667,29
+7785,Senad Lulić,Lazio,2447.4666666666667,30
+7787,Stefan de Vrij,Lazio,185.96666666666667,2
+7788,Ciro Immobile,Torino,1377.5166666666667,22
+7791,Seko Fofana,Bastia,2321.9666666666667,31
+7792,Giuseppe Pezzella,Palermo,619.75,9
+7793,Kevin Lasagna,Carpi,1631.9333333333334,36
+7794,Samir Caetano de Souza Santos,Hellas Verona,277.3333333333333,3
+7796,Silvan Widmer,Udinese,1997.75,27
+7797,Rodrigo Javier De Paul,Valencia,538.1666666666666,9
+7799,Danilo Larangeira,Udinese,3074.9166666666665,34
+7803,Albano Benjamín Bizzarri,Chievo,3285.2,35
+7804,Alberto Brignoli,Sampdoria,90.01666666666667,1
+7805,Stipe Perica,Udinese,489.1166666666667,11
+7808,Roderic Filippi,Gazélec Ajaccio,1983.0333333333333,25
+7815,Antoine Devaux,Stade de Reims,2900.95,33
+7817,Frédéric Bulot,Stade de Reims,1064.1333333333334,16
+7848,Matt Miazga,Chelsea,138.18333333333334,2
+7852,Tim Matavž,Genoa,482.35,7
+7857,Brice Dja Djédjé,Marseille,1533.55,19
+7884,Marcin Ryszard Wasilewski,Leicester City,318.95,4
+7900,Tiago Manuel Dias Correia,Rayo Vallecano,2301.016666666667,34
+7904,Javi Castellano Betancor,Las Palmas,93.03333333333333,1
+7905,Raúl Lizoáin Cruz,Las Palmas,731.3333333333333,8
+7906,David Simón Rodríguez Santana,Las Palmas,2349.5333333333333,27
+7907,Pedro Bigas Rigo,Las Palmas,2436.633333333333,27
+7909,Nicolás Martín Pareja,Sevilla,126.01666666666667,2
+7948,Marco Andreolli,Sevilla,572.85,7
+7949,Artur Ioniţă,Hellas Verona,2478.2166666666667,31
+7952,Simone Padoin,Juventus,615.3,12
+7961,Leandro Castán da Silva,AS Roma,395.85,5
+7962,Andrea Ranocchia,Inter Milan,1442.3833333333332,24
+7965,Lorenzo Crisetig,Bologna,366.03333333333336,5
+7966,Filip Helander,Hellas Verona,1955.3333333333333,24
+8061,Siem Stefan de Jong,Newcastle United,510.5,18
+8093,Diego Falcinelli,Sassuolo,1188.05,26
+8102,Edoardo Goldaniga,Palermo,1268.2333333333333,17
+8103,Mattia Destro,Bologna,2224.6666666666665,27
+8104,Vassilis Torosidis,AS Roma,615.65,11
+8167,Sergio Ezequiel Araújo,Las Palmas,1898.9166666666667,30
+8172,Felipe Anderson Pereira Gomes,Lazio,2176.1666666666665,35
+8173,Marco Parolo,Lazio,2679.0333333333333,31
+8180,Leonardo Pavoletti,Genoa,1986.8,25
+8184,Marco D''Alessandro,Atalanta,1231.0166666666667,23
+8187,Marcel Büchel,Empoli,1641.5166666666667,28
+8190,Patricio Gabarrón Gil,Lazio,610.4,9
+8191,Ali Adnan Kadhim Al Tameemi,Udinese,1983.6833333333334,28
+8193,Maximiliano Gastón López,Torino,1190.1833333333334,26
+8194,Mirko Valdifiori,Napoli,469.06666666666666,6
+8217,Kingsley Coman,Juventus,63.86666666666667,1
+8234,Ignacio Camacho Barnola,Málaga,2079.366666666667,23
+8251,Marco van Ginkel,Stoke City,797.4499999999999,17
+8264,Adnane Tighadouini,Málaga,404.5833333333333,10
+8272,Cyril Théréau,Udinese,2996.7333333333336,36
+8274,Pierluigi Gollini,Hellas Verona,2425.0166666666664,26
+8275,Davide Astori,Fiorentina,3029.483333333333,33
+8277,Wallace Fortuna dos Santos,AS Monaco,2341.866666666667,26
+8278,Nicolás Federico Spolli,Carpi,1138.0166666666667,14
+8280,Godfred Donsah,Bologna,1371.9333333333334,20
+8284,Amadou Diawara,Bologna,2851.866666666667,34
+8291,Arlind Afrim Ajeti,Frosinone,1274.95,16
+8294,Claudio Marchisio,Juventus,2004.4,23
+8296,Alessandro Matri,Lazio,864.1999999999999,19
+8344,Manuel García Alonso,Manchester City,14.033333333333331,1
+8385,Ludovic Lamine Sané,Bordeaux,956.8333333333333,13
+8400,Serge Gnabry,West Bromwich Albion,17.599999999999994,1
+8419,Duje Čop,Málaga,2085.766666666667,31
+8420,Luca Cigarini,Atalanta,1893.4166666666667,25
+8421,Matteo Bianchetti,Hellas Verona,1674.0,23
+8423,Pedro Miguel Almeida Lopes Pereira,Sampdoria,664.9166666666666,9
+8424,Marco Tumminello,AS Roma,2.933333333333337,1
+8440,Aythami Artiles Oliva,Las Palmas,2736.633333333333,31
+8443,Dušan Basta,Lazio,1897.35,23
+8459,Edson Braafheid,Lazio,358.6333333333333,5
+8463,Urby Emanuelson,Hellas Verona,656.1,11
+8469,Jean-Christophe Bahebeck,Saint-Étienne,782.3166666666666,15
+8485,Pedro Chirivella Burgos,Liverpool,45.0,1
+8510,Jean-Kévin Augustin,Paris Saint-Germain,454.73333333333335,13
+8515,Benjamin Stambouli,Paris Saint-Germain,1497.2166666666667,26
+8520,Nabil Bentaleb,Tottenham Hotspur,186.01666666666665,5
+8522,Armindo Tué Na Bangna,Real Sociedad,1526.0833333333333,32
+8523,Yevhen Konoplyanka,Sevilla,1695.3333333333333,32
+8552,Robin Quaison,Palermo,1586.6666666666667,30
+8572,Karim Rekik,Marseille,2117.6,24
+8584,Jonathas Cristian de Jesus,Real Sociedad,1677.8833333333334,27
+8644,Sergio Pellissier,Chievo,999.1666666666666,19
+8645,Massimo Gobbi,Chievo,2913.616666666667,34
+8653,José Mauri,AC Milan,255.10000000000002,5
+8657,Andrea Conti,Atalanta,846.5166666666667,14
+8661,Daniel Pavlovic,Frosinone,2006.7833333333333,22
+8662,Vid Belec,Carpi,2832.3166666666666,30
+8664,Andrea Costa,Empoli,2186.233333333333,24
+8668,Kevin-Prince Boateng,AC Milan,237.23333333333335,11
+8672,Gélson da Conceição Tavares Fernandes,Rennes,3021.3333333333335,33
+8675,Jonathan de Guzmán,Carpi,131.43333333333334,5
+8677,Marcel Tisserand,Toulouse,2950.45,33
+8697,Andrés Eduardo Fernández Moreno,Granada,3462.75,37
+8717,Dominik Furman,Hellas Verona,24.549999999999997,1
+8724,Carlos Martínez Díez,Real Sociedad,567.0333333333333,10
+8792,Mattia Zaccagni,Hellas Verona,61.3,3
+8793,Oliver Kragl,Frosinone,956.4333333333333,15
+8801,Iván López Mendoza,Levante UD,990.8833333333333,13
+8803,Daniel Giménez Hernández,Real Betis,219.11666666666665,3
+8818,Jorge Meré Pérez,Sporting Gijón,2246.1666666666665,25
+8847,Santiago Juan Gentiletti Selak,Lazio,1788.65,19
+8848,Paolo Cannavaro,Sassuolo,2759.85,31
+8849,Domenico Maietta,Bologna,1623.9166666666667,19
+8851,Saphir Sliti Taïder,Bologna,2192.15,29
+8852,Thomas Heurtaux,Udinese,1118.55,15
+8866,Carlos Fernández Luna,Sevilla,29.4,1
+8871,Marco Borriello,Carpi,1674.3166666666666,27
+8873,Marios Oikonomou,Bologna,1694.3166666666666,20
+8874,Luca Antonelli,AC Milan,2450.116666666667,28
+8875,Ricardo Gabriel Álvarez,Sampdoria,830.7833333333333,13
+8876,Faouzi Ghoulam,Napoli,3027.55,34
+8877,Boštjan Cesar,Chievo,2827.65,31
+8981,Antoine Rabillard,Olympique de Marseille,94.70000000000002,3
+9014,Declan Rudd,Norwich City,1036.85,11
+9070,Hiram Boateng,Crystal Palace,22.88333333333334,1
+9102,Serhou Guirassy,Lille,327.98333333333335,8
+9246,Patrick Ebert,Rayo Vallecano,569.3333333333334,9
+9403,Izet Hajrović,Eibar,187.58333333333334,7
+9452,Gary O''Neil,Norwich City,1861.3666666666666,27
+9461,Timm Klose,Norwich City,889.5166666666667,10
+9462,José Ignacio Peleteiro Ramallo,Eibar,721.8666666666667,13
+9463,Alexander Banor Tettey,Norwich City,2035.8833333333332,23
+9467,Timothy Michael Krul,Newcastle United,755.4666666666667,8
+9485,Craig Gardner,West Bromwich Albion,2137.0833333333335,34
+9519,Kyle Lafferty,Norwich City,19.366666666666674,1
+9528,Steven Naismith,Norwich City,1366.6166666666666,23
+9533,Leandro Bacuna,Aston Villa,2527.4666666666667,31
+9536,Modou Barrow,Swansea City,862.4333333333333,22
+9539,Vito Mannone,Sunderland,1796.7166666666667,19
+9551,Callum McManaman,West Bromwich Albion,317.2833333333333,12
+9554,Steven Fletcher,Marseille,1824.3666666666668,28
+9563,Kristoffer Nordfeldt,Swansea City,92.98333333333333,1
+9566,Bersant Celina,Manchester City,17.83333333333333,1
+9578,Jonathan Howson,Norwich City,3088.6,36
+9593,Lewis Grabban,AFC Bournemouth,887.1666666666666,21
+9625,Glenn Whelan,Stoke City,3286.35,37
+9626,Tommy Elphick,AFC Bournemouth,1068.75,12
+9627,Neil Taylor,Swansea City,3091.0833333333335,34
+9628,James Grant Chester,West Bromwich Albion,1010.6833333333333,13
+9629,Stephen Kingsley,Swansea City,367.95,4
+9630,Andre Green,Aston Villa,64.75,2
+9635,Will Keane,Manchester United,8.799999999999997,1
+9636,Rushian Hepburn-Murphy,Aston Villa,6.283333333333331,1
+9638,Jack Grealish,Aston Villa,882.2166666666667,16
+9641,Fraizer Campbell,Crystal Palace,394.9166666666667,11
+9642,Alan Hutton,Aston Villa,2455.9666666666667,28
+9648,Paddy McNair,Manchester United,338.01666666666665,8
+9649,Jack Colback,Newcastle United,2469.0833333333335,29
+9860,Florian Sotoca,Montpellier,4.416666666666671,1
+9884,Niklas Moisander,Sampdoria,1867.3333333333333,22
+9887,Rafael de Andrade Bittencourt Pinheiro,Hellas Verona,1051.0,12
+9897,Kévin Soni,Bordeaux,92.26666666666667,2
+9898,Aleksandar Tonev,Frosinone,1137.9,22
+9903,Yussif Raman Chibsah,Frosinone,1215.4833333333333,22
+9914,Danny Ward,Liverpool,188.64999999999998,2
+9930,Ryan Bennett,Norwich City,1923.05,22
+9931,Hélder Wander Sousa Azevedo Costa,AS Monaco,1341.7,25
+9939,Maurício dos Santos Nascimento,Lazio,2023.4,24
+9940,Armando Izzo,Genoa,2768.75,33
+9958,Steven Caulker,Liverpool,171.05,6
+9985,Ádám Bogdán,Liverpool,185.25,2
+10007,Jon Flanagan,Liverpool,432.85,5
+10030,Davide Biondini,Sassuolo,1153.25,22
+10031,Marcello Gazzola,Sassuolo,509.5333333333333,9
+10032,Achraf Lazaar,Palermo,2377.5666666666666,30
+10033,Luca Antei,Sassuolo,358.3833333333333,5
+10036,Jacques-Alaixys Romao,Marseille,1306.4333333333334,23
+10037,Danilo Barbosa da Silva,Valencia,1409.2833333333333,19
+10326,João Carlos Vilaça Teixeira,Liverpool,6.883333333333326,1
+10330,Gadji Celi Carmen Junior Tallo,Lille,1169.1833333333334,23
+10448,Adam Ounas,Bordeaux,1271.7666666666667,22
+10457,Patrick Bamford,Crystal Palace,407.16666666666663,13
+10458,Fikayo Tomori,Chelsea,33.55,1
+10461,Alexis Alégué Elandi,Nantes,105.05,3
+10476,Timothée Kolodziejczak,Sevilla,2473.0333333333333,29
+10484,Callum Connolly,Everton,40.38333333333333,1
+10499,Ivo Daniel Ferreira Mendonca Pinto,Norwich City,854.4333333333333,10
+10503,Billy Jones,Sunderland,2125.483333333333,24
+10522,Mehdi Mostefa Sbaa,Lorient,1982.7166666666667,26
+10530,Jules Olivier Ntcham,Genoa,1057.0666666666666,17
+10609,Jérémy Mathieu,Barcelona,1312.8833333333332,21
+10612,Yoel Rodríguez Oterino,Rayo Vallecano,838.8166666666667,9
+10616,Mohamed Larbi,Gazélec Ajaccio,2260.2166666666667,29
+10727,Răzvan Dincă Raț,Rayo Vallecano,767.1666666666666,10
+10736,Vlad Iulian Chiricheș,Napoli,716.5333333333333,8
+10746,Ermir Lenjani,Rennes,1538.3833333333334,21
+10754,Héctor Hernández Ortega,Real Sociedad,434.6166666666666,13
+10755,Jonathan Viera Ramos,Las Palmas,3206.5333333333333,36
+10763,Asier Riesgo Unamuno,Eibar,3166.75,34
+10770,Adam Matthews,Sunderland,41.88333333333333,1
+10771,George Honeyman,Sunderland,42.86666666666667,1
+10772,Donald Love,Manchester United,56.71666666666666,1
+10779,Cameron Borthwick-Jackson,Manchester United,732.7666666666667,10
+10783,Lee Cattermole,Sunderland,2304.2,31
+10802,André Filipe Tavares Gomes,Valencia,2454.55,30
+10805,Ricardo Alberto Silveira de Carvalho,AS Monaco,3009.3166666666666,33
+10852,Miguel Filipe Nunes Cardoso,RC Deportivo La Coruña,55.483333333333334,3
+10868,Ricardo Jorge Luz Horta,Málaga,803.6166666666667,17
+10881,Diogo José Rosário Gomes Figueiras,Genoa,846.4666666666667,13
+10919,Juraj Kucka,Genoa,2259.883333333333,30
+10931,Joe Allen,Liverpool,787.9666666666667,19
+10932,Jonathan Williams,Crystal Palace,13.549999999999997,1
+10936,Lorik Agim Cana,Nantes,1831.9333333333334,21
+10955,Harry Kane,Tottenham Hotspur,3486.65,38
+10956,Eric Dier,Tottenham Hotspur,3395.3,37
+10958,Chris Smalling,Manchester United,3288.0666666666666,35
+10960,Jamie Vardy,Leicester City,3267.05,36
+10966,Wes Hoolahan,Norwich City,2042.7666666666667,30
+10967,Robert Brady,Norwich City,3115.2166666666667,36
+10977,Jérémy Livolant,Guingamp,13.283333333333331,1
+11012,Jonathan Grant Evans,West Bromwich Albion,2712.4666666666667,30
+11062,Graziano Pellè,Southampton,2292.9833333333336,30
+11094,Arda Turan,Barcelona,841.4166666666666,18
+11117,Scott Sinclair,Aston Villa,1671.4166666666667,27
+11124,Steven Whittaker,Norwich City,689.2666666666667,8
+11128,Umar Sadiq Mesbah,AS Roma,210.56666666666666,6
+11146,Luis Carlos Fariña Olivera,Rayo Vallecano,63.56666666666666,3
+11183,Alex Nicolao Telles,Inter Milan,1616.6666666666667,21
+11212,Fábio Ricardo Gomes Fonseca,Málaga,94.7,2
+11295,Patrick Roberts,Manchester City,8.600000000000009,1
+11298,José Ignacio Martínez García,Rayo Vallecano,1750.9166666666667,22
+11332,Ibrahim Amadou,Lille,1751.1666666666667,22
+11333,Adama Traoré Diarra,Aston Villa,237.0666666666667,10
+11339,Paweł Wszołek,Sampdoria,1874.8833333333334,28
+11342,Eros Pisano,Hellas Verona,3029.7833333333333,34
+11386,Santiago Cazorla González,Arsenal,1335.1166666666666,15
+11426,Andrea Seculin,Chievo,280.33333333333337,3
+11427,Filip Đorđević,Lazio,1362.5166666666667,27
+11494,Luca Siligardi,Hellas Verona,1467.7333333333333,28
+11497,Jonathan Ludovic Biabiany,Inter Milan,924.1166666666667,20
+11499,Riccardo Gagliolo,Carpi,2753.85,31
+11502,Antonio Di Gaudio,Carpi,1582.4833333333333,29
+11508,Łukasz Skorupski,Empoli,2920.05,31
+11512,Rade Krunić,Empoli,540.6166666666667,15
+11516,Manuel Pasqual,Fiorentina,1078.45,17
+11519,Antonino La Gumina,Palermo,79.7,3
+11537,Alberto García Cabrera,Sporting Gijón,566.3666666666667,6
+11539,Adrián Embarba Blázquez,Rayo Vallecano,1896.1333333333332,28
+11540,Óscar Guido Trejo,Toulouse,2241.4166666666665,34
+11542,Javier Guerra Rodríguez,Rayo Vallecano,2156.4,30
+11543,José Antonio Dorado Ramírez,Rayo Vallecano,492.18333333333334,10
+11602,Raffaele Maiello,Empoli,508.93333333333334,12
+11603,Mario Pašalić,AS Monaco,1038.1,16
+11608,Danilo Soddimo,Frosinone,1856.9666666666667,28
+11634,Cristiano Piccini,Real Betis,1472.1666666666667,16
+11643,Riccardo Meggiorini,Chievo,1690.2666666666667,26
+11672,Samuele Longo,Frosinone,385.68333333333334,18
+11675,Moisés Gómez Bordonado,Getafe,971.9499999999999,22
+11722,Boukary Dramé,Atalanta,2137.983333333333,25
+11729,Luca Rizzo,Bologna,1471.8,23
+11813,Emiliano Buendía,Getafe,784.2833333333333,17
+11936,Harrison Reed,Southampton,13.900000000000006,1
+11992,Kevin Linford Stewart,Liverpool,586.25,7
+12021,Óliver Torres Muñoz,Atlético Madrid,853.65,21
+12191,Gorka Elustondo Urkola,Athletic Club,497.76666666666665,11
+12325,Abdul Rahman Baba,Chelsea,1072.9166666666667,15
+12349,Wilfried Aimeric Zahibo,Valencia,134.86666666666667,2
+12351,Alejandro Bedoya,Nantes,2148.0833333333335,28
+12475,Angelo Esmael da Costa Júnior,Bologna,473.8,5
+12491,Federico Marchetti,Lazio,2660.25,29
+12608,Bradley Guzan,Aston Villa,2651.95,28
+12619,Josef Alexander Martínez Mencia,Torino,985.4666666666667,21
+12759,Maximiliano Nicol Moralez,Atalanta,1414.2,17
+13042,Tim Howard,Everton,2353.883333333333,25
+13107,Sergio Álvarez Díaz,Sporting Gijón,2259.8,27
+13200,Oluwaseyi Babajide Ojo,Liverpool,416.98333333333335,8
+13248,Eunan O''Kane,AFC Bournemouth,812.4166666666666,16
+13286,Lamine Koné,Lorient,2985.7666666666664,33
+13428,Andrea Favilli,Juventus,1.9500000000000028,1
+13448,Bradley Shaun Smith,Liverpool,294.1,4
+13552,Borja Fernández Fernández,Celta Vigo,147.91666666666666,4
+13573,Yann Kermorgant,AFC Bournemouth,154.11666666666662,7
+13592,Alexandre Raineau,Caen,341.75,7
+13612,Lorenzo Ariaudo,Sassuolo,690.3333333333334,9
+13613,Daniel Ciofani,Frosinone,3018.45,37
+13614,Francesco Bardi,Frosinone,124.75,2
+13634,Stéphane Sparagna,Marseille,260.0,8
+13730,Matthieu Saunier,Troyes,2405.8166666666666,27
+13731,Eddy Maanane,Stade de Reims,19.299999999999997,1
+13846,Jan Kirchhoff,Sunderland,1104.4,15
+13848,Marc Wilson,Stoke City,276.1166666666667,4
+15161,Alexander Merkel,Udinese,57.56666666666667,1
+15296,Romain Alessandrini,Marseille,1273.6166666666666,22
+15297,Mickaël Ciani,Espanyol,137.15,2
+15318,Lazaros Christodoulopoulos,Sampdoria,378.4,10
+15415,Matteo Mancosu,Bologna,959.8333333333334,21
+15542,Jake-Liam Clarke-Salter,Chelsea,19.433333333333337,1
+15602,Juan Carlos Valerón Santana,Las Palmas,411.6333333333333,13
+15689,Floyd Ayité,Bastia,2631.3333333333335,31
+15780,Francesco Totti,AS Roma,421.18333333333334,13
+15796,Babacar Gueye,Troyes,628.6333333333333,11
+15805,Hernán Daniel Santana Trujillo,Las Palmas,970.3833333333333,18
+15818,Gervais Lombe Yao Kouassi,AS Roma,1113.9166666666667,14
+15892,Jordon Mutch,Crystal Palace,867.9499999999999,20
+15893,Víctor Rodríguez Romero,Getafe,2371.2833333333333,33
+15959,Nenad Krstičić,Sampdoria,568.3666666666667,10
+15996,Éderzito António Macedo Lopes,Lille,1435.6833333333334,26
+16003,Fernando Francisco Reges,Manchester City,1798.2666666666667,24
+16014,Jean Pierre Nsamé,Angers,76.23333333333333,5
+16027,Kevin Mbabu,Newcastle United,153.89999999999998,3
+16056,Niklas Hult,OGC Nice,843.6,15
+16061,Uroš Ćosić,Empoli,849.45,9
+16067,Josh Onomah,Tottenham Hotspur,107.63333333333334,8
+16072,Vurnon Anita,Newcastle United,2186.75,28
+16073,Aras Özbiliz,Rayo Vallecano,107.3,3
+16181,Jordy Clasie,Southampton,1574.4166666666667,22
+16202,Nikola Maksimović,Torino,1508.3166666666666,16
+16271,Florian Raspentino,Bastia,537.4,11
+16295,Dame N''Doye,Sunderland,615.8333333333333,11
+16308,Leandro Daniel Paredes,Empoli,2576.3166666666666,33
+16309,Joel Robles Blázquez,Everton,1230.5166666666667,13
+16332,Ognjen Vranješ,Sporting Gijón,944.0833333333334,11
+16334,Graham Dorrans,Norwich City,1345.2,21
+16338,Uche Henry Agbo,Granada,267.55,6
+16418,Adrien Regattin,Toulouse,1597.75,34
+16426,Wanderson Maciel Sousa Campos,Getafe,818.5,20
+16430,Uroš Spajić,Toulouse,1137.0833333333333,14
+16453,Gary Alexis Medel Soto,Inter Milan,2513.9166666666665,30
+16456,Enzo Pablo Roco Roco,Espanyol,2573.9333333333334,33
+16457,Jeremain Lens,Sunderland,1352.8666666666666,20
+16462,Hatem Ben Arfa,OGC Nice,2908.65,34
+16495,Omar El Kaddouri,Napoli,311.4,20
+16503,Pedro Henrique Konzen Medina da Silva,Rennes,1240.3666666666668,23
+16522,Tongo Hamed Doumbia,Toulouse,1948.3,25
+16539,Diego Antonio Reyes Rosales,Real Sociedad,2386.8166666666666,27
+16586,Fernando Lucas Martins,Sampdoria,3104.0666666666666,35
+16622,Mikel González de Martín Martínez,Real Sociedad,1600.7,19
+16723,Egor Filipenko,Málaga,582.0,8
+16890,John O'Shea,Sunderland,2116.1833333333334,28
+16932,Youssouf Chafiq Mulumbu Ngangu,Norwich City,383.6166666666667,7
+17054,Emiliano Daniel Velázquez Maldonado,Getafe,1004.1333333333333,11
+17276,Seydou Doumbia,Newcastle United,42.266666666666666,3
+17520,Federico Barba,Empoli,928.6666666666666,10
+17617,Christopher Maboulou,Bastia,269.35,9
+17622,Jackson Arley Martínez Valencia,Atlético Madrid,682.5,15
+18027,Matteo Brighi,Bologna,1553.05,23
+18028,Levan Mchedlidze,Empoli,356.31666666666666,13
+18162,Chris Mavinga,Troyes,1542.4833333333333,19
+18237,Ionuț Andrei Radu,Inter Milan,20.266666666666666,1
+18243,Ivan Ricardo Neves Abreu Cavaleiro,AS Monaco,535.5333333333333,12
+18398,Omar Mascarell González,Sporting Gijón,1846.6666666666667,26
+18404,José Ángel Crespo Rincón,Rayo Vallecano,831.05,10
+18407,José Alberto Cañas Ruiz Herrera,Espanyol,722.8499999999999,13
+18414,Bastian Schweinsteiger,Manchester United,1253.35,18
+18672,Mark Bunn,Aston Villa,941.1166666666667,10
+18721,Robert Ibáñez Castro,Granada,733.9166666666666,18
+18724,Sofiane Feghouli,Valencia,1321.65,21
+18751,Jack Rodwell,Sunderland,1254.3333333333333,22
+18783,Omenuke Mfulu,Stade de Reims,417.8333333333333,13
+18867,Matías Nahuel Leiva Esquivel,Villarreal,1046.0166666666667,20
+18868,Mathieu Valbuena,Lyon,1880.9,26
+18872,Martin Škrtel,Liverpool,1978.55,22
+18874,Mauricio Aníbal Isla Isla,Marseille,1901.4,24
+18904,Claudio Matías Kranevitter,Atlético Madrid,350.8666666666667,8
+18921,Joris Gnagnon,Rennes,243.61666666666667,7
+18925,Ignacio Cases Mora,Sporting Gijón,2039.4166666666667,24
+18946,Paul-José M''Poku Ebunge,Chievo,825.5833333333333,20
+18947,Sébastien Pocognoli,West Bromwich Albion,39.03333333333333,1
+18953,Vágner Silva de Souza,AS Monaco,801.15,12
+19047,Fábio Alexandre da Silva Coentrão,AS Monaco,1126.5,15
+19286,Miroslav Klose,Lazio,1423.85,24
+19288,Martín Gastón Demichelis,Manchester City,1083.2,20
+19299,Maicon Douglas Sisenando,AS Roma,1031.5333333333333,15
+19362,Rudy Gestede,Aston Villa,1799.4333333333334,32
+19395,Marvin Gakpa,Lorient,53.266666666666666,3
+19431,Fernando Damián Tissone,Málaga,1024.9833333333333,12
+19454,Ricardo Miguel Moreira da Costa,Granada,1298.3833333333332,14
+19668,Augusto Matías Fernández,Celta Vigo,2256.5333333333333,28
+19677,Karim Benzema,Real Madrid,2018.55,27
+19688,Jason Puncheon,Crystal Palace,2705.2,31
+19724,Rafael van der Vaart,Real Betis,197.2,7
+19813,Rolando Jorge Pires da Fonseca,Olympique de Marseille,1700.35,19
+19846,Antonio Di Natale,Udinese,1207.55,23
+19847,Alessandro Diamanti,Atalanta,973.2166666666667,19
+19850,Antonio Cassano,Sampdoria,1279.6833333333334,24
+20004,Paul Pogba,Juventus,3142.3333333333335,35
+20005,Toby Alderweireld,Tottenham Hotspur,3569.1833333333334,38
+20008,Patrice Evra,Juventus,2129.616666666667,26
+20016,Kléper Laveran Lima Ferreira,Real Madrid,1940.4333333333334,21
+20027,Mevlüt Erdinç,Guingamp,891.5,15
+20039,Anthony Martial,AS Monaco,2956.116666666667,34
+20043,Norbert Gyömbér,AS Roma,118.26666666666668,6
+20045,Ryan Bertrand,Southampton,3024.0,32
+20046,Phil Jagielka,Everton,1934.1166666666666,21
+20048,Gregory van der Wiel,Paris Saint-Germain,1418.5166666666667,17
+20055,Marc-André ter Stegen,Barcelona,560.1833333333334,7
+20057,Nigel de Jong,AC Milan,383.5333333333333,5
+20063,Javier Ontiveros Parra,Málaga,70.64999999999998,4
+20064,Hugo Miguel Almeida Costa Lopes,Granada,2041.3666666666666,26
+20066,Darren Randolph,West Ham United,572.2666666666667,6
+20067,Darron Gibson,Everton,260.5333333333333,7
+20074,Artur Boruc,AFC Bournemouth,3022.0666666666666,32
+20086,Stipe Pletikosa,RC Deportivo La Coruña,184.08333333333331,2
+20169,Seydou Kéita,AS Roma,1431.1,20
+20199,Lars Christian Jacobsen,Guingamp,2863.65,32
+20201,Maarten Stekelenburg,Southampton,1602.5333333333333,17
+20215,Álvaro Arbeloa Coca,Real Madrid,276.1,6
+20230,Gökhan İnler,Leicester City,204.6,5
+20252,Luca Toni,Hellas Verona,1849.4833333333333,23
+20253,Samir Nasri,Manchester City,573.9166666666667,12
+20285,Joleon Lescott,Aston Villa,2940.0166666666664,32
+20287,John Terry,Chelsea,2084.266666666667,24
+20289,Philippe Mexès,AC Milan,421.8333333333333,5
+20300,Jérémy Ménez,AC Milan,335.4666666666667,10
+20302,Gaël Clichy,Manchester City,1133.6166666666666,14
+20446,Shay Given,Stoke City,235.18333333333334,3
+20521,Bafétimbi Gomis,Swansea City,1811.7333333333333,33
+20527,Jonas Olsson,West Bromwich Albion,2107.5666666666666,28
+20542,Álvaro Negredo Sánchez,Valencia,1218.4333333333334,25
+20543,Nikica Jelavić,West Ham United,403.79999999999995,13
+20561,Antonio Nocerino,AC Milan,70.5,2
+20636,Mirko Gori,Frosinone,2229.266666666667,28
+20637,Salih Uçan,AS Roma,52.68333333333332,3
+20641,Connor Wickham,Crystal Palace,1369.9666666666667,21
+20669,Tiago Cardoso Mendes,Atlético Madrid,1092.1333333333332,14
+20781,Jordan Rossiter,Liverpool,18.78333333333333,1
+20951,Jordan Lyden,Aston Villa,157.36666666666667,4
+20970,Nicolás Ignacio Castillo Mora,Frosinone,324.9166666666667,6
+21147,Borja Mayoral Moya,Real Madrid,291.5166666666667,6
+21210,Mariano Ferreira Filho,Sevilla,1760.5833333333333,23
+21212,Russell Martin,Norwich City,2820.3166666666666,30
+21229,Sergi Samper Montaña,Barcelona,31.699999999999996,1
+21254,Carl Jenkinson,West Ham United,1304.7,20
+21272,Luiz Adriano de Souza da Silva,AC Milan,1268.6833333333334,26
+21540,Kevin Nolan,West Ham United,61.3,2
+21792,Robin Maulun,Bordeaux,55.0,1
+21877,Ignacio Monsalve Vicente,Atlético Madrid,92.9,1
+22041,Marko Livaja,Empoli,670.75,18
+22058,Connor Steven Randall,Liverpool,170.56666666666666,3
+22102,Adriano Correia Claro,Barcelona,445.3833333333333,8
+22111,Dennis Appiah,Caen,3547.15,38
+22130,Mauro Daniel Goicoechea Furia,Toulouse,769.8833333333333,9
+22237,Mamadou Obbi Oularé,Watford,13.683333333333323,2
+22271,Salvador Ichazo Fernández,Torino,281.6166666666667,3
+22281,Duncan Watmore,Sunderland,999.3666666666667,23
+22587,Didier Ndong Ibrahim,Lorient,3170.2666666666664,34
+22594,Matt Jarvis,West Ham United,1155.9166666666667,22
+22622,Kieran O''Neill Dowell,Everton,76.6,2
+22702,Jonathan Leko,West Bromwich Albion,281.25,5
+22819,Bruno Soriano Llido,Villarreal,2700.75,31
+22822,Alejandro Miguel Rodriguez,Sampdoria,68.75000000000001,6
+22828,Ricardo Kishna,Lazio,586.0666666666667,11
+23203,Stopilla Sunzu,Lille,956.9333333333333,12
+23241,William Vainqueur,AS Roma,654.3833333333333,16
+23315,Yohan Mollo,Saint-Étienne,25.61666666666666,1
+23324,Nicolas Sebastian Frey,Chievo,1550.9833333333333,19
+23329,Abdelhamid El Kaoutari,Stade de Reims,1334.7,15
+23349,Paolo Sammarco,Frosinone,2425.4666666666667,28
+23416,Stefan Šćepović,Getafe,1904.9166666666667,34
+23470,Luca Paganini,Frosinone,1914.3500000000001,27
+23488,Mario Suárez Mata,Fiorentina,1280.5166666666667,24
+23635,John Ruddy,Norwich City,2549.2,27
+23663,Dieumerci Mbokani Bezua,Norwich City,1700.7166666666667,29
+23742,Vadis Odjidja-Ofoe,Norwich City,310.5333333333333,10
+23761,Alhassane Bangoura,Stade de Reims,1282.7166666666667,26
+23784,Nill De Pauw,Guingamp,401.03333333333336,13
+23785,Théo Bongonda Mbul''Ofeko Batombo,Celta Vigo,1235.8,23
+23791,Víctor Casadesús Castaño,Levante UD,1012.2333333333332,23
+23799,Eddy Silvestre Pascual İsrafilov,Eibar,230.76666666666665,6
+23800,Laureano Sanabria Ruiz,RC Deportivo La Coruña,1607.3,23
+23802,Juan Muñoz Muñoz,Sevilla,319.51666666666665,8
+23806,Alejandro Bergantiños García,RC Deportivo La Coruña,1807.9166666666667,22
+23816,José Antonio Reyes Calderón,Sevilla,1228.6333333333332,24
+23833,Borja Viguera Manzanares,Athletic Club,319.9666666666667,9
+23835,Yaw Yeboah,Lille,111.03333333333335,3
+23838,Pablo Pérez Rodríguez,Sporting Gijón,787.2333333333333,18
+23843,Diego Mariño Villar,Levante UD,2146.9333333333334,23
+23846,Uroš Đurđević,Palermo,506.54999999999995,14
+23848,Carlos Carmona Bonet,Sporting Gijón,1241.65,20
+23849,Francisco José Villalba Rodrigo,Valencia,7.066666666666677,1
+23850,Mathieu Peybernes,Bastia,2130.4333333333334,25
+23924,Mamadou Sylla Diallo,Espanyol,376.4833333333333,14
+23930,Ikechukwu Uche,Málaga,89.43333333333334,3
+23933,Abdelaziz Barrada,Marseille,1480.5333333333333,24
+23936,Antonio Jesús Cotán Pérez,Sevilla,93.58333333333333,1
+23943,Rubén García Santos,Levante UD,1075.7333333333333,22
+23970,José María Martín-Bejarano Serrano,Levante UD,819.1166666666667,12
+23972,José Joaquín Matos García,Sevilla,93.58333333333333,1
+23974,Roberto Antonio Correa Silva,Espanyol,480.7,7
+23987,Rey Manaj,Inter Milan,51.06666666666669,4
+23994,Alejandro Menéndez Díez,Sporting Gijón,1093.8,21
+24021,Paul Nardi,AS Monaco,186.38333333333333,2
+24035,Álvaro Vázquez García,Getafe,2046.45,34
+24061,Aljaž Struna,Palermo,1893.0833333333333,22
+24070,Saúl Berjón Pérez,Eibar,1453.8,29
+24072,Salvador Sevilla López,Espanyol,561.2333333333333,15
+24086,Antonio José Raillo Arenas,Espanyol,375.2,4
+24120,Jamie Sterry,Newcastle United,9.349999999999994,1
+24132,Francisco Miguel Varela Martín,Real Betis,954.3,14
+24138,Joaquín José Marín Ruiz,Rayo Vallecano,2126.6666666666665,27
+24143,Álvaro Vadillo Cifuentes,Real Betis,92.55,3
+24144,Ángel Montoro Sánchez,Las Palmas,454.95,9
+24149,José Antonio García Rabasco,Levante UD,2207.483333333333,29
+24162,Xavier Torres Buigues,Real Betis,670.75,12
+24173,Carlos Castro García,Sporting Gijón,1073.5333333333333,25
+24234,Juan Domínguez Lamas,RC Deportivo La Coruña,194.43333333333334,5
+24235,Federico Dionisi,Frosinone,2536.3333333333335,32
+24249,Juan Muñiz Gallego,Sporting Gijón,74.14999999999999,4
+24255,Juan Carlos Martín Corral,Rayo Vallecano,1871.7,21
+24263,Ismael López Blanco,Sporting Gijón,2589.3166666666666,31
+24277,Vincenzo Renato Rennella,Real Betis,206.7,6
+24318,Alberto Guitián Ceballos,Sporting Gijón,93.8,1
+24380,Tetchi Jores Charlemagne Ulrich Okore,Aston Villa,1129.8,12
+24453,Josip Radošević,Eibar,418.45,8
+24469,Jesper Hansen,Bastia,324.76666666666665,4
+24508,Manuel Castellano Castro,Eibar,574.3166666666667,10
+24577,Salvador Ruiz Rodríguez,Granada,78.51666666666665,2
+24578,Francisco Montañés Claverías,Espanyol,290.04999999999995,7
+24646,Rafidine Abdullah,Lorient,603.0833333333334,12
+24683,Diego Ángel Capel Trinidad,Genoa,768.9499999999999,21
+24686,Roberto Canella Suárez,Sporting Gijón,732.1,9
+24711,David Carmona Sierra,Sevilla,93.03333333333333,1
+24722,Emmanuel Agyemang-Badu,Udinese,2765.35,33
+24743,Gary Hooper,Norwich City,20.066666666666663,2
+24782,Jonhatan Montiel Caballero,Rayo Vallecano,231.28333333333333,8
+24783,Javier Márquez Moreno,Granada,1362.2666666666667,19
+24888,Adam Federici,AFC Bournemouth,516.15,6
+25057,Alejandro Barrera García,Sporting Gijón,76.43333333333334,5
+25116,Edenílson Andrade dos Santos,Udinese,2291.9666666666667,29
+25126,Nicolás Federico López Alonso,Granada,182.85,8
+25134,Deyverson Brum Silva Acosta,Levante UD,2233.6833333333334,33
+25144,Diego Alves Carreira,Valencia,1212.4833333333333,13
+25199,Lucas Silva Borges,Marseille,1081.8166666666666,22
+25303,Gilberto Moraes Junior,Fiorentina,491.56666666666666,10
+25345,Anderson Hernanes de Carvalho Andrade,Inter Milan,954.8666666666667,16
+25351,Alexandre Rodrigues da Silva,Chelsea,134.06666666666666,2
+25377,Rémy Riou,Nantes,2915.4333333333334,31
+25430,Felipe Melo de Carvalho,Inter Milan,1850.1666666666667,26
+25505,José Rodolfo Pires Ribeiro,Sampdoria,1469.8,17
+25707,Francisco Manuel Rico Castro,Granada,1523.6833333333334,28
+25824,Ángel Trujillo Canorea,Levante UD,693.0166666666667,8
+25859,Sérgio Paulo Barbosa Valente,Málaga,1135.3999999999999,26
+25881,Juan Antonio Rodríguez Villamuela,Getafe,2583.9333333333334,32
+25921,Rubén Gracia Calmache,RC Deportivo La Coruña,908.7666666666667,18
+25931,Gonzalo Javier Rodríguez,Fiorentina,3273.983333333333,35
+25954,Enzo Maresca,Palermo,1037.5333333333333,15
+25984,Ángel Domingo López Ruano,Las Palmas,45.11666666666666,3
+25997,Jonás Manuel Gutiérrez,RC Deportivo La Coruña,428.5333333333333,15
+26009,Roberto Soldado Rillo,Villarreal,2309.2166666666667,28
+26012,David Navarro Pedrós,Levante UD,1740.0,20
+26020,Ángel Lafita Castillo,Getafe,1035.5833333333333,14
+26023,Juan Francisco García García,Levante UD,1566.3666666666666,20
+26070,Antonio Rodríguez Martínez,Rayo Vallecano,831.1833333333334,10
+26087,Carlos Gurpegi Nausia,Athletic Club,1184.2666666666667,15
+26103,Idriss Carlos Kameni,Málaga,2560.6,28
+26107,Alberto Lopo García,RC Deportivo La Coruña,773.0333333333333,10
+26192,Matías Ariel Fernández Fernández,Fiorentina,1134.4166666666667,22
+26197,Christian Abbiati,AC Milan,75.44999999999999,1
+26207,Fabricio Coloccini,Newcastle United,2400.9666666666667,26
+26209,Manuel Pablo García Díaz,RC Deportivo La Coruña,178.51666666666665,3
+26211,Joan Verdú Fernández,Fiorentina,1142.4833333333333,18
+26220,Matuzalém Francelino da Silva,Hellas Verona,228.03333333333336,7
+26222,José Eduardo Rosa Vale de Castro,Rayo Vallecano,1772.1,22
+26248,David Barral Torres,Granada,405.83333333333337,14
+26256,Igor Lichnovsky Osorio,Sporting Gijón,185.03333333333333,2
+26288,Jonathan Javier Rodríguez Portillo,RC Deportivo La Coruña,597.5166666666667,13
+26387,Edgar Antonio Méndez Ortega,Granada,788.6,15
+26442,Boško Janković,Hellas Verona,926.3166666666666,15
+26448,Javier Garrido Behovide,Las Palmas,1630.05,18
+26481,Sébastien Squillaci,Bastia,2681.5333333333333,30
+26518,Enrique Sola Clemente,Athletic Club,88.33333333333333,5
+26607,José Raúl Baena Urdiales,Rayo Vallecano,1897.2,24
+26613,Maxwell Scherrer Cabelino Andrade,Paris Saint-Germain,2207.35,27
+26633,Alberto Lora Ramos,Sporting Gijón,2513.4333333333334,31
+26647,Henok Goitom,Getafe,130.41666666666666,2
+26669,Weligton Róbson Pena de Oliveira,Málaga,2698.6666666666665,30
+26683,Abdoulay Konko,Lazio,1598.5,18
+26685,Nicolás Ladislao Fedor Flores,Rayo Vallecano,1595.55,22
+26689,Nauzet Alemán Viera,Las Palmas,276.4166666666667,10
+26690,Alberto Mateus Contreiras Gonçalves,Rayo Vallecano,1032.6166666666668,28
+26696,Arouna Koné,Everton,1521.6,25
+26699,Emmanuel Adebayor,Crystal Palace,650.7,12
+26707,Juan Pablo Carrizo,Inter Milan,165.7,2
+26723,Álvaro Cejudo Carmona,Real Betis,1935.6833333333334,30
+26728,Alberto Facundo Costa,Genoa,1261.0666666666666,19
+26736,Borja Ekiza Imaz,Eibar,195.61666666666667,4
+26752,Mouhamadou Dabo,Troyes,1098.6166666666666,17
+26753,Javier Varas Herrera,Las Palmas,2811.4666666666667,31
+26764,Jon Ansotegi Gorostola,Eibar,562.8333333333334,8
+26775,Thievy Guivane Bifouma Koulossa,Stade de Reims,1178.2666666666667,21
+26776,Juan Isaac Cuenca López,Granada,821.8166666666666,12
+26780,Guilherme Magdalena Siqueira,Valencia,1224.4666666666667,15
+26781,Diego Mainz García,Granada,421.0833333333333,5
+26783,Roque Luis Santa Cruz Cantero,Málaga,481.19999999999993,17
+26797,Francisco Medina Luna,Rayo Vallecano,784.0333333333333,16
+26801,Jordi Figueras Montel,Real Betis,174.89999999999998,3
+26827,Ravel Morrison,Lazio,73.16666666666669,4
+26848,Roberto Trashorras Gayoso,Rayo Vallecano,3222.1,36
+26941,Francisco Javier García Noblejas Hernanz,Getafe,93.08333333333333,1
+27014,Deniz Hümmet,Troyes,170.16666666666666,6
+27044,Marco Antônio De Mattos Filho,Udinese,489.75,11
+27052,Lévy Clément Madinda,Celta Vigo,2.683333333333337,1
+27053,Alexandre Dimitri Song-Billong,West Ham United,688.0,12
+27054,Roberto Lago Soto,Getafe,1407.4333333333334,17
+27092,Abdoul Karim Yoda,Getafe,1029.25,18
+27109,Youssef El-Arabi,Granada,2614.8,35
+27110,Antonio Floro Flores,Sassuolo,1337.2833333333333,28
+27111,António Alberto Bastos Pimparel,Sevilla,371.29999999999995,4
+27122,Simão Mate,Levante UD,2239.233333333333,30
+27123,Jordi Xumetra Feliu,Levante UD,548.1,13
+27144,Antonio Amaya Carazo,Rayo Vallecano,1075.7166666666667,17
+27146,Aly Cissokho,Aston Villa,1666.7833333333333,18
+27148,Abraham González Casanova,Espanyol,1148.1166666666666,20
+27154,Nikolaos Karabelas,Levante UD,93.13333333333334,1
+27155,Bojan Jokić,Villarreal,127.71666666666667,2
+27184,Marcos Alberto Angeleri,Málaga,1152.3,13
+27239,Aleksandar Pantić,Eibar,1737.2166666666667,20
+27240,Jesús Fernández Collado,Granada,94.98333333333333,1
+27241,Víctor Guillermo Álvarez Delgado,Espanyol,2004.7333333333333,27
+27243,Oriol Riera Magem,RC Deportivo La Coruña,852.2833333333333,22
+27250,Nabil Ghilas,Levante UD,1061.3333333333333,20
+27251,Francisco José Perdomo Borges,Las Palmas,329.4166666666667,8
+27305,Germán Darío Lux,RC Deportivo La Coruña,2650.85,29
+27318,Douglas Pereira dos Santos,Barcelona,14.716666666666669,1
+27328,Alexander Farnerud,Torino,116.43333333333334,5
+27335,Arthur Etienne Boka,Málaga,1079.2,14
+27340,Dejan Dražić,Celta Vigo,117.76666666666667,6
+27341,Marcelo Alfonso Díaz Rojas,Celta Vigo,1022.35,14
+27342,Josep Señé Escudero,Celta Vigo,414.3666666666667,9
+27345,Didier Digard,Real Betis,318.26666666666665,8
+27346,Petros Matheus dos Santos Araújo,Real Betis,2414.15,30
+27347,Juan Manuel Vargas Risco,Real Betis,1781.1166666666666,20
+27348,Ricky van Wolfswinkel,Real Betis,658.8833333333333,16
+27349,Heiko Westermann,Real Betis,1685.5,20
+27401,Bernard Mensah,Getafe,85.16666666666664,8
+27402,Álvaro Daniel Pereira Barragán,Getafe,420.18333333333334,6
+27403,Santiago Vergini,Getafe,2282.3,26
+27457,Manuel Fernández Muñíz,RC Deportivo La Coruña,706.7166666666667,8
+27462,Xabier Iruretagoiena Aranzamendi,Eibar,373.31666666666666,4
+27463,Mauricio Andrés Cuero Castillo,Levante UD,511.1833333333333,13
+27480,Lucas Alfonso Orbán Alegre,Valencia,815.9499999999999,10
+27481,Carlos Carbonell Gil,Valencia,5.86666666666666,1
+27482,Aderllan Leandro de Jesus Santos,Valencia,1576.2833333333333,17
+27483,Benoît Trémoulinas,Sevilla,2233.233333333333,24
+27521,Juan Emmanuel Culio,Las Palmas,584.5333333333333,12
+27522,Antolín Alcáraz Viveros,Las Palmas,559.3,6
+27526,Rachid Aït-Atmane,Sporting Gijón,1111.7833333333333,18
+27558,Elderson Uwa Echiejile,AS Monaco,1635.3,20
+27595,Carlos Mario Carbonero Mancilla,Sampdoria,1080.4833333333333,14
+27656,Carl Medjani,Levante UD,1308.3833333333332,14
+27853,Mauro Matías Zárate,Fiorentina,1575.2833333333333,30
+27949,Juan Manuel Iturbe Arévalo,AS Roma,507.0333333333333,14
+27970,Ian González Nieto,Getafe,17.16666666666667,1
+28066,Marcelo Alejandro Estigarribia Balmori,Atalanta,44.91666666666667,4
+28100,Ramires Santos do Nascimento,Chelsea,644.75,12
+28247,Libor Kozák,Aston Villa,271.26666666666665,4
+28289,Gastón Alexis Silva Perdomo,Torino,928.1166666666667,12
+28357,Thomas Vincensini,Bastia,128.15,2
+28442,Matteo Fedele,Carpi,586.7666666666667,8
+28559,Enner Remberto Valencia Lastra,West Ham United,1072.6833333333334,19
+28782,Ritchie De Laet,Leicester City,694.8166666666666,12
+28968,Sébastien Wüthrich,Montpellier,4.283333333333331,1
+28974,Fabio Daprelà,Palermo,236.60000000000002,7
+29057,Renato Civelli,Lille,2881.35,32
+29133,Brayan Andrés Perea Vargas,Troyes,542.7833333333333,12
+29161,Josip Posavec,Palermo,92.98333333333333,1
+29312,Pablo Estífer Armero,Udinese,433.8333333333333,5
+29382,Shaun MacDonald,AFC Bournemouth,40.05000000000001,3
+29384,James Weir,Manchester United,0.9166666666666714,1
+29714,Yacouba Sylla,Rennes,1546.1666666666667,20
+29875,Axel Ngando,Bastia,1237.7,21
+30182,Dorian Lévêque,Guingamp,1255.6666666666667,14
+30255,Mustapha Yatabaré,Montpellier,1467.6333333333332,28
+30289,Papiss Demba Cissé,Newcastle United,1108.65,21
+30291,Atila Turan,Stade de Reims,785.1,11
+30315,Moryké Fofana,Lorient,137.73333333333332,6
+30338,André Biyogo Poko,Bordeaux,1962.0833333333333,25
+30429,Hugo Fraile Martín,Sporting Gijón,90.88333333333333,3
+30447,Jean-Armel Kana-Biyik,Toulouse,1514.1,18
+30454,Francisco José Sánchez Rodríguez,Sevilla,314.04999999999995,4
+30512,Aleksandar Trajkovski,Palermo,1733.3833333333332,32
+30702,Brendan Joel Zibusiso Galloway,Everton,1270.8666666666666,15
+30704,Gastón Brugman,Palermo,1012.1833333333334,14
+30735,Mato Jajalo,Palermo,2111.8166666666666,28
+30745,Daniele Gastaldello,Bologna,2290.6,26
+30750,Stefano Sabelli,Carpi,580.3666666666667,7
+30767,Gabriel Vasconelos Ferreira,Napoli,95.58333333333333,1
+30769,Andrea Rispoli,Palermo,1489.5666666666666,22
+30770,Filippo Falco,Bologna,255.33333333333331,9
+30772,Panagiotis Tachtsidis,Genoa,897.75,24
+30829,Lorenzo Lollo,Carpi,2188.0666666666666,27
+30830,Luca Lezzerini,Fiorentina,114.08333333333334,2
+30911,Robert Gucher,Frosinone,1415.8,24
+30927,Massimiliano Carlini,Frosinone,428.00000000000006,14
+30928,Roberto Vitiello,Palermo,736.4333333333334,10
+30941,Karim Laribi,Sassuolo,510.83333333333337,11
+31039,Yroundu Musavu-King,Lorient,198.10000000000002,3
+31172,Luca Bittante,Empoli,580.0666666666666,16
+31174,Jean-Daniel Akpa Akpro,Toulouse,2654.95,33
+31231,Davide Brivio,Atalanta,1067.8333333333333,14
+31265,Michele Rocca,Sampdoria,32.81666666666666,1
+31268,Michel Morganella,Palermo,1063.9666666666667,14
+31273,Marco Crimi,Bologna,1076.4333333333334,20
+31296,Sébastien Aymar Bassong Nguena,Norwich City,2923.3333333333335,32
+31335,Giuseppe Panico,Genoa,10.399999999999991,1
+31383,Nikola Ninković,Chievo,7.88333333333334,1
+31467,Eneko Capilla González,Real Sociedad,10.099999999999994,1
+31469,Andrés Pascual Santoja,Valencia,56.583333333333336,1
+31488,Vangelis Moras,Hellas Verona,2872.0333333333333,31
+31572,Luca Marrone,Carpi,1643.5,21
+31625,Johan Martial,Troyes,591.2166666666667,8
+31681,Olivier Veigneau,Nantes,171.31666666666666,2
+31687,Adryan Oliveira Tavares,Nantes,1457.8666666666666,26
+31711,Abdoulaye Sadio Diallo,Bastia,737.5,15
+31721,Matteo Ciofani,Frosinone,1343.0833333333333,18
+31725,Gaetano Monachello,Atalanta,394.55,10
+31737,Michele Camporese,Empoli,160.45,2
+31904,Giedrius Arlauskis,Espanyol,264.76666666666665,4
+31911,Damjan Đoković,Gazélec Ajaccio,2389.0833333333335,34
+32037,Nicola Leali,Frosinone,3105.4666666666667,33
+32119,Leandro Greco,Hellas Verona,1963.85,26
+32525,Fabrizio Poli,Carpi,885.0833333333334,10
+32608,Jerry Uche Mbakogu,Carpi,1749.5333333333333,24
+32722,Norbert Sándor Balogh,Palermo,63.98333333333332,4
+32807,Fredy Alejandro Guarín Vásquez,Inter Milan,1026.0833333333333,16
+32903,Emanuele Terranova,Sassuolo,355.01666666666665,6
+33178,Benjamin Moukandjo Bilé,Lorient,2303.133333333333,31
+33311,Ogenyi Eddy Onazi,Lazio,1222.6333333333334,15
+33529,Panagiotis Giorgios Kone,Udinese,256.53333333333336,6
+34315,Simone Colombi,Palermo,188.06666666666666,2
+34355,Riccardo Fiamozzi,Genoa,499.26666666666665,8
+34539,Hervin Scicchitano Ongenda,Paris Saint-Germain,357.25,5
+34565,Anthony Mounier,Montpellier,2271.983333333333,33
+34728,Diego Alende López,Celta Vigo,43.199999999999996,1
+34762,Anthony Ribelin,Montpellier,57.9,1
+34881,Daniele Padelli,Torino,3305.0,35
+34953,Denis Petrić,Troyes,1027.1166666666666,11
+34976,Jean Carlos Francisco Deza Sánchez,Montpellier,215.13333333333333,7
+35923,Carlos Emilio Carmona Tello,Atalanta,495.35,8
+36364,Dávid Ivan,Sampdoria,1154.5666666666666,21
+36465,Fabrizio Alastra,Palermo,147.75,2
+36553,Matthieu Dreyer,Troyes,1308.3666666666666,14
+36770,Mauricio Ricardo Pinilla Ferreira,Atalanta,1393.0500000000002,20
+36927,Boris Radunović,Atalanta,94.21666666666667,1
+36983,Juan Carlos Paredes Reasco,Watford,824.2833333333333,17
+37212,Leandro Damião da Silva dos Santos,Real Betis,136.61666666666667,3
+37999,Rodrigo Sebastián Aguirre Soto,Udinese,363.98333333333335,10
+38237,Gabriel Alejandro Paletta,Atalanta,2107.8,24
+38312,Eugenio Lamanna,Genoa,1218.35,13
+38326,Ferdinando Coppola,Hellas Verona,94.03333333333333,1
+38389,Alberto Gilardino,Palermo,2433.9166666666665,33
+38412,Kolo Habib Touré,Liverpool,893.95,14
+38413,Vassiriki Abou Diaby,Marseille,137.11666666666667,3
+40118,Ikechi Anya,Watford,1786.3833333333332,28
+40119,Juan Camilo Zúñiga Mosquera,Bologna,478.73333333333335,9
+40121,Philipp Wollscheid,Stoke City,2806.65,31
+40122,Oscar dos Santos Emboaba Júnior,Chelsea,1847.0666666666666,27
+40123,Robert Huth,Leicester City,3313.3166666666666,35
+40124,Rickie Lambert,West Bromwich Albion,698.1833333333334,19
+40125,Steven Pienaar,Everton,144.2166666666667,4
+40127,Ryan Mason,Tottenham Hotspur,862.5833333333334,22
+40130,Victor Chinedu Anichebe,West Bromwich Albion,395.04999999999995,10
+40218,Sylvain Distin,AFC Bournemouth,892.5666666666666,12
+40247,Simone Pepe,Chievo,855.9333333333334,22
+40250,Marco Zambelli,Empoli,1308.6333333333334,19
+40251,Daniele Croce,Empoli,1881.2166666666667,28
+40252,Massimo Maccarone,Empoli,2830.4,37
+40321,Andrea Coda,Sampdoria,133.18333333333334,4
+40332,Alberto Pelagotti,Empoli,564.4333333333334,6
+40333,Cristian Raimondi,Atalanta,805.0166666666667,18
+40348,Assane Demoya Gnoukouri,Inter Milan,60.28333333333333,2
+40349,Ivaylo Chochev,Palermo,1817.9333333333334,27
+40350,Siniša Anđelković,Palermo,1985.9333333333334,23
+40351,Alessandro Gazzi,Torino,1027.55,15
+40366,Wes Brown,Sunderland,564.1833333333333,6
+40367,Francesco Lodi,Udinese,1944.9166666666667,24
+40394,Djamel Eddine Mesbah,Sampdoria,611.5,7
+40407,Steed Malbranque,Lyon,421.3333333333333,11
+40419,Accursio Bentivegna,Palermo,12.466666666666669,1
+40426,Guglielmo Stendardo,Atalanta,1168.85,15
+40427,Cesare Bovo,Torino,1873.6,21
+40428,Archimede Morleo,Bologna,407.5,5
+40429,Angelo Palombo,Sampdoria,405.1,7
+40430,Giuseppe Vives,Torino,2675.3333333333335,33
+40431,Aleksandar Pešić,Toulouse,674.4666666666666,23
+40447,Gennaro Sardo,Chievo,346.65,6
+40453,Segundo Víctor Ibarbo Guerrero,AS Roma,97.71666666666665,6
+40455,Giulio Migliaccio,Atalanta,600.4333333333333,18
+40457,Giovanni Marchese,Genoa,692.95,11
+40484,Vincent Enyeama,Lille,3266.6,35
+40485,Ryan Isaac Mendes da Graça,Lille,100.98333333333332,3
+40486,Éric Bauthéac,Lille,2252.2833333333333,28
+40509,Kermit Romeo Erasmus,Rennes,42.099999999999994,2
+40517,Gilles Cioni,Bastia,1543.15,19
+40518,Abdoulaye Traoré,Bordeaux,401.0,10
+40521,Franck Signorino,Stade de Reims,2664.1833333333334,29
+40522,Rio Antonio Zoba Mavuba,Lille,2937.05,35
+40523,Marko Baša,Lille,1388.95,15
+40524,Franck Béria,Lille,63.86666666666668,2
+40526,François Pantxi Sirieix,Toulouse,90.03333333333333,5
+40527,Brou Benjamin Angoua,Guingamp,1312.6,18
+40528,Florian Marange,Bastia,1666.8833333333332,23
+40529,Morgan De Sanctis,AS Roma,372.68333333333334,4
+40530,Jamel Saihi,Montpellier,625.75,13
+40531,Erwin Koffi,Lorient,93.16666666666667,1
+40533,Cédric Carrasso,Bordeaux,1791.1666666666667,20
+40536,Issiar Dia,Gazélec Ajaccio,381.9166666666667,11
+40641,Pavle Ninkov,Toulouse,539.1833333333333,10
+40645,Laurent Pionnier,Montpellier,2338.0333333333333,25
+40697,Mounir Obbadi,Lille,2392.616666666667,30
+40698,Nicolas Seube,Caen,2243.233333333333,33
+40699,Sylvain Armand,Rennes,3115.8333333333335,34
+40700,Mamadou N''Diaye,Montpellier,161.56666666666666,8
+40701,Jordan Leborgne,Caen,695.0166666666667,14
+40822,Daniel Arnaud N''Di	,Sporting Gijón,769.6833333333333,15
+40945,Alex Rodrigo Dias da Costa,AC Milan,2185.2666666666664,25
+41041,Jonathan Correia Da Fonseca,OGC Nice,248.43333333333334,4
+41063,Aaron Mattia Tabacchi,Bologna,10.75,1
+41067,Davide Bassi,Atalanta,93.96666666666667,1
+41082,Steve Sidwell,Stoke City,15.116666666666674,1
+41185,Jakob Haugaard,Stoke City,423.8833333333333,5
+41231,Maurizio Pugliesi,Empoli,95.65,1
+41385,Ali Nadhoim Ahamada,Toulouse,560.3166666666666,6
+41948,Franco Signorelli,Empoli,36.699999999999996,1
+42271,Fabio Della Giovanna,Inter Milan,11.0,1
+42376,Albert Rafetraniaina,OGC Nice,6.950000000000003,1
+42422,Dušan Veškovac,Troyes,1100.0333333333333,13
+42423,Mouhamadou Habib Habibou,Rennes,11.166666666666671,1
+42427,Simon Pouplin,OGC Nice,36.3,1
+42428,Jonathan Ligali,Montpellier,560.5,6
+42430,Nicolas Maurice-Belay,Bordeaux,1318.3333333333333,18
+42699,Gabriel Imuetinyan Agbonlahor,Aston Villa,1066.5333333333333,15
+42700,Micah Richards,Aston Villa,2143.4666666666667,24
+42701,Kieran Richardson,Aston Villa,768.4666666666667,11
+42702,Modibo Maïga,West Ham United,42.64999999999999,3
+42703,Mikel Arteta Amatriain,Arsenal,191.36666666666667,9
+42899,Gabriel Antoine Obertan,Newcastle United,297.1166666666667,5
+42900,Cheik Ismaël Tioté,Newcastle United,1262.75,20
+42901,Osazemwinde Peter Odemwingie,Stoke City,120.64999999999999,5
+42902,Adam Johnson,Sunderland,1210.15,19
+42946,Guangtai Jiang,Everton,312.93333333333334,5
+42947,Leon Osman,Everton,250.7333333333333,9
+43081,Almen Abdi,Watford,2036.2,32
+43121,Kelvin Davis,Southampton,95.2,1
+43354,Chengdong Zhang,Rayo Vallecano,12.116666666666674,1
+43591,Marvin Emnes,Swansea City,70.6,2
+43627,Jordi Gómez García-Penche,Sunderland,356.05,6
+43695,Brede Hangeland,Crystal Palace,662.5333333333333,7
+43757,Yoan Gouffran,Newcastle United,256.6,8
+43896,Thomas Henry,Nantes,37.76666666666668,2
+44065,William Matheus da Silva,Toulouse,1288.5666666666666,14
+44395,Andrés Fabián Ponce Núñez,Sampdoria,4.966666666666669,1
+44955,Aïssa Bilal Laïdouni,Angers,93.08333333333333,1
+45014,Tokelo Anthony Rantie,AFC Bournemouth,54.96666666666667,3
+45389,Thomas Robson,Sunderland,94.05,1
+45415,Paul Guerin,Gazélec Ajaccio,145.66666666666669,2
+45508,Emanuele Suagher,Carpi,758.8333333333334,9
+45590,Nicolò Cherubin,Atalanta,1082.9,14
+45591,Franco Brienza,Bologna,1780.0333333333333,29
+45685,Sébastien Antoine Luc Salles Lamonge,Rennes,117.83333333333331,3
+45688,Hamadou Karamoko,Lorient,279.01666666666665,3
+46670,Iván Rodrigo Piris Leguizamón,Udinese,1963.4666666666667,27
+46801,Jaba Kankava,Stade de Reims,2422.5166666666664,27
+48634,"Charles N""Zogbia",Aston Villa,49.466666666666654,2
+49433,Hachim Mastour,Málaga,9.5,1
+49439,Germán Gustavo Denis,Atalanta,1020.7833333333333,15
+49440,Davide Bertoncini,Frosinone,375.75,5
+50245,Marouane Chamakh,Crystal Palace,289.25,10
+57655,Željko Brkić,Carpi,346.6,4
+75537,David Goldar Gómez,Celta Vigo,93.08333333333333,1
+75899,Kevin Toner,Aston Villa,335.06666666666666,4
+79615,Néstor Díaz García,Celta Vigo,12.049999999999997,1
+90746,Alassane Touré,Gazélec Ajaccio,985.3833333333333,13
+91209,Franck Hery,Guingamp,283.2833333333333,3
+95699,Alexi Peuget,Stade de Reims,690.9499999999999,12
+106664,Sibiri Alain Traoré,Lorient,41.11666666666666,3
+106683,Saïdi Ntibazonkiza,Stade Malherbe Caen,638.1666666666666,14
+128703,Dionatan do Nascimento Teixeira,Stoke City,50.71666666666667,1
+128704,Emmanuel Emenike,West Ham United,556.2166666666667,13
+129558,Tony Hibbert,Everton,49.599999999999994,1
+129559,Rees Greenwood,Sunderland,51.18333333333333,1
+131849,Antoine Conte,Stade de Reims,952.2833333333333,11
+134561,Wallyson Teixeira Mallmann,OGC Nice,790.7166666666667,17
+141742,Youssef Ben Ali,Toulouse,16.14999999999999,1
+146696,Paulin Puel,OGC Nice,219.06666666666663,11
+148132,Quentin Othon,Troyes,610.25,8
+166764,Ander Gayoso Reina,Eibar,8.066666666666663,1
+170152,Mahamadou Bamba N''Diaye,Troyes,18.60000000000001,1
+174418,Modibo Diakité,Frosinone,2368.4666666666667,26
+175093,Hicham M''Laab,Nantes,33.60000000000002,2
+186264,Foued Kadir,Real Betis,488.81666666666666,8
+197493,Mikel Arruabarrena Aranbide,Eibar,77.49999999999999,6
+197562,Iñigo Barrenetxea García,Eibar,12.449999999999989,2
+197595,Sergio Mendigutxia Iglesias,Sporting Gijón,32.9,1
+206604,Imanol Corral Matellán,Eibar,0.6666666666666714,1
+220761,Miguel Ángel Muñoz Alonso,Getafe,204.86666666666667,3
+296873,Roberto Crivello,Frosinone,1495.1833333333334,17
+310534,Louis Poggi,Gazélec Ajaccio,735.7166666666667,14
+351521,Ezequiel Iván Lavezzi,Paris Saint-Germain,470.5333333333333,16
+352172,Raffaele Bianco,Carpi,1936.45,26
+386509,Adriano Russo,Frosinone,916.3000000000001,10
+386510,Massimo Zenildo Zappino,Frosinone,335.55,4
+386512,Alessandro Frara,Frosinone,1212.8333333333333,20
+386514,Luca Martinelli,Empoli,93.1,1
+386515,Ronaldo Pompeu da Silva,Empoli,115.16666666666666,3
+386516,Alessandro Piu,Empoli,253.48333333333335,10
+386606,Luigi Giorgi,Atalanta,17.983333333333334,1
+386607,Gianpaolo Bellini,Atalanta,987.15,15
+386640,Robert Acquafresca,Bologna,221.8,6
+386641,Stefano Mauri,Lazio,532.75,12
+386650,Michelangelo Albertazzi,Hellas Verona,720.15,10
+386651,Juan Ignacio Gómez Taleb,Hellas Verona,1934.5833333333333,33
+386652,Luca Checchin,Hellas Verona,113.31666666666666,4
+386654,Maurizio Domizzi,Udinese,286.18333333333334,5
+386656,Giovanni Pasquale,Udinese,255.40000000000003,6
+386657,Giampiero Pinzi,Chievo,1035.4166666666667,18
+387300,Cristian Zaccardo,Carpi,2515.266666666667,27
+387417,Mattia Cassani,Sampdoria,2120.8333333333335,25
+387420,Alessandro Longhi,Sassuolo,323.8,6
+387428,Amauri Carvalho de Oliveira,Torino,15.583333333333329,1
+387472,Lorenzo Pasciuti,Carpi,1612.9,21
+387473,Wallace Oliveira dos Santos,Carpi,180.81666666666666,6
+387474,Igor Bubnjić,Carpi,755.7166666666667,9
+387475,Andrea Lazzari,Carpi,363.98333333333335,8
+387476,Raphael Martinho Alves de Lima,Carpi,691.5833333333334,11
+387477,Francesco Benussi,Carpi,310.85,4
+387832,Filippo Porcari,Carpi,192.83333333333334,4
+387847,Leonardo Blanchard,Frosinone,2541.5833333333335,28
+388167,Mohamed Ilyes Salah Chaïbi,AS Monaco,13.75,1
+390310,Lorenzo Di Livio,AS Roma,24.516666666666666,1
+398941,Vasyl Pryyma,Frosinone,317.58333333333337,5
+399299,Kévin Constant,Bologna,295.55,7
+401194,François Modesto,Bastia,2432.383333333333,28
+401453,"David N""Gog",Stade de Reims,881.85,16
+401454,Kossi Agassa,Stade de Reims,938.8333333333334,11
+401455,Mohamed Fofana,Stade de Reims,1019.1333333333333,13
+401467,Florent Chaigneau,Lorient,182.51666666666665,2
+401468,Moustapha Bayal Sall,Saint-Étienne,2348.5333333333333,27
+401470,Fabien Camus,Troyes,2361.866666666667,34
+401471,Henri Bienvenu Ntsama,Troyes,200.8,7
+401472,Carlos Eduardo de Castro Lourenço,Troyes,643.5666666666666,7
+401474,Kévin Gomis,OGC Nice,180.3,3
+401476,Paolo De Ceglie,Marseille,324.1166666666667,7
+401477,Johan Audel,Nantes,1362.6666666666667,29
+401478,Rémi Gomis,Nantes,1241.2833333333333,17
+401479,Calvin Anele Ngcongca,Troyes,1763.5,20
+401480,Mathias Serin,Angers,2.9666666666666686,1
+401481,Slimane Sissoko,Angers,344.59999999999997,12
+401482,Gaël Angoula,Angers,1052.1333333333332,13
+401483,Olivier Auriac,Angers,445.51666666666665,16
+401484,Charles Diers,Angers,517.1,15
+401488,Odaïr Junior Lopes Fortes,Stade de Reims,522.8333333333333,16
+401489,Jussiê Ferreira Vieira,Bordeaux,483.3,14
+401491,Yassine Jebbour,Bastia,190.58333333333331,4
+401505,Jacques Zoua Daogari,Gazélec Ajaccio,2336.233333333333,30
+401506,Grégory Pujol,Gazélec Ajaccio,1188.2333333333333,19
+401507,Jérôme Le Moigne,Gazélec Ajaccio,2454.883333333333,30
+401508,Clément Maury,Gazélec Ajaccio,3089.1666666666665,33
+401509,David Ducourtioux,Gazélec Ajaccio,2664.883333333333,32
+401512,Lionel Mathis,Guingamp,1443.5,20
+401513,Reynald Lemaître,Guingamp,469.05,6
+401524,Maxime Baca,Guingamp,188.0,2
+401525,Julien Cardy,Guingamp,546.8666666666667,14
+401528,Mahamane El-Hadj Traoré,OGC Nice,434.91666666666663,12
+401541,Evaeverson Lemos da Silva Brandão,Bastia,1815.2166666666667,26
+401542,Goran Karanović,Angers,342.78333333333336,12
+401603,Erin Jorge Gomes Pinheiro,Saint-Étienne,27.13333333333334,2
+401775,Hugo Rodriguez,Stade de Reims,175.46666666666667,3
+402967,Julien Romain,Bastia,173.54999999999998,5
+403155,Mohamed Amine Chermiti,Gazélec Ajaccio,289.46666666666664,9
+403310,Ilias Hassani,Bordeaux,19.58333333333333,1
+403377,Stéphan Raheriharimanana,OGC Nice,83.23333333333335,4
+403378,Antony Ranieri,OGC Nice,11.599999999999994,2
+403390,Jean Ambrose,Bordeaux,1.1833333333333371,1
+403392,Diego Gómez,Angers,30.64999999999999,1
